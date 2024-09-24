@@ -55,7 +55,7 @@ function Footer() {
                         <Widget title="Contact Us">
                             <address>
                                 Megadong1011, SKN technopark, Sagimakgol-ro124, Jungwon-gu, Seongnam-si, Gyonggi-do, S.Korea <br/>
-                                http://localhost:3000/ <br/>
+                                https://cktoolkor.netlify.app/ <br/>
                                 (+82) 31-605-1115
                             </address>
                         </Widget>

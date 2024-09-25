@@ -3,15 +3,7 @@
     "id": 1,
     "title": "Grow Your Business With Us",
     "text": "Businex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly.",
-    "bg": "slider/ck1.jpg",
-    "btnText": "Learn More",
-    "btnLink": "/about"
-  },
-  {
-    "id": 2,
-    "title": "Invest with us & Grow Business",
-    "text": "Businex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly.",
-    "bg": "slider/ck1.jpg",
+    "bg": "slider/size.mp4",
     "btnText": "Learn More",
     "btnLink": "/about"
   }

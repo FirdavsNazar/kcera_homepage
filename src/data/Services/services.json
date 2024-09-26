@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "title": "Creative Ideas",
+    "title": "OMPQ",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/01.jpg",
+    "thumb": "service/1ompq.png",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",
@@ -17,9 +17,9 @@
   },
   {
     "id": 2,
-    "title": "Digital Solutions",
+    "title": "OMPX",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/02.jpg",
+    "thumb": "service/2ompx.png",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",
@@ -33,9 +33,9 @@
   },
   {
     "id": 3,
-    "title": "Brand & Communication",
+    "title": "OMH",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/03.jpg",
+    "thumb": "service/3omh.png",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",
@@ -49,9 +49,9 @@
   },
   {
     "id": 4,
-    "title": "Creative Strategy",
+    "title": "OMS",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/04.jpg",
+    "thumb": "service/5oms.png",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",
@@ -65,9 +65,9 @@
   },
   {
     "id": 5,
-    "title": "Marketing Policy",
+    "title": "OMHH",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/05.jpg",
+    "thumb": "service/4omhh.png",
     "previewImages": [
       "service/details/01.jpg",
       "service/details/02.jpg",
@@ -81,9 +81,9 @@
   },
   {
     "id": 6,
-    "title": "Campaign & PR",
+    "title": "OMM",
     "shortDesc": "Lorem ipsum dolor sit amet, consect etur adipiscing elit consectetur adipisicing elit. Asdipiscing elit. Consectetur adipisicing hastech.",
-    "thumb": "service/06.jpg",
+    "thumb": "service/6omm.png",
     "previewImages": [
       "service/details/03.jpg",
       "service/details/01.jpg",

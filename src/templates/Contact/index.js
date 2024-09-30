@@ -20,7 +20,7 @@ const ContactPage = () => {
                                 <div className="contact-info-con">
                                     <h3>Contact Info</h3>
                                     <ContactInfo
-                                        address="2005 Stokes Isle Apartment <br/>896, Washington 10010, USA <br/>https://example.com <br/>(+68) 120034509"
+                                        address="Megadong1011, SKN technopark, Sagimakgol-ro124, Jungwon-gu, Seongnam-si <br/>Gyonggi-do, S.Korea <br/>https://cktoolkor.netlify.app/ <br/>(+82) 31-605-1115"
                                     />
                                 </div>
                             </div>

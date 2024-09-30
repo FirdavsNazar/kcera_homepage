@@ -14,7 +14,7 @@ const HeaderConfig = () => {
 
     return (
         <div className="header-action mt-lg-3 text-end">
-            <a href="tel:00199823568658" className="tel-no">+998 23568 658</a>
+            <a href="http://kcera.kr/wp-content/uploads/down/%2719~20%20CERA%20TIGER%20CATALOGUE.pdf" className="tel-no">Catalogue</a>
             <button onClick={LoginRegHandler} className="btn-cog"><i className="fa fa-cog"/></button>
             <button onClick={MobileMenuHandler} className="btn-menu d-lg-none"><i className="fa fa-bars"/></button>
         </div>

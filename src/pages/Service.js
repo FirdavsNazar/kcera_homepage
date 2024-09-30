@@ -19,9 +19,8 @@ const PageService = () => {
         <Fragment>
             <Header/>
             <PageHeader
-                bgImg={require('../assets/img/page-header.jpg')}
-                title="OUR SERVICES"
-                content="Businex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly."
+                bgImg={require('../assets/img/direction_main.png')}
+                title="DIRECTION"
             />
             <PageAbout
                 title={'Our Services'}

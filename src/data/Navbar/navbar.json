@@ -26,21 +26,21 @@
   },
   {
     "id": 3,
-    "title": "Services",
+    "title": "Direction",
     "link": "/services",
     "megaMenu": false,
     "subMenu": false
   },
   {
     "id": 4,
-    "title": "Team",
+    "title": "Product",
     "link": "/team",
     "megaMenu": false,
     "subMenu": false
   },
   {
     "id": 5,
-    "title": "Blog",
+    "title": "Product",
     "link": "/blog-grid-right-sidebar",
     "megaMenu": false,
     "subMenu": [

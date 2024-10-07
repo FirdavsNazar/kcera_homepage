@@ -20,7 +20,11 @@ const PageService = () => {
             <Header/>
             <PageHeader
                 bgImg={require('../assets/img/direction_main.png')}
-                title="DIRECTION"
+                title={
+                    <span style={{ color: 'black' }}>
+                      DIRECTION
+                    </span>
+                  }
             />
             <PageAbout
                 title={'Our Services'}

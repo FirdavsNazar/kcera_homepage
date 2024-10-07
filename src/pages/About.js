@@ -22,7 +22,7 @@ const PageAbout = () => {
             <PageHeader
                 bgImg={require('../assets/img/about/about_page_header.png')}
                 title = <h1> About US </h1>
-                content= "Businex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly."
+                // content= "Businex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly."
             />
             <About
                 title={'Our Team'}

@@ -4,7 +4,7 @@ import Widget from "../UI/Widget";
 import List from "../UI/List";
 import LI from "../UI/List/Item";
 import {Link} from "react-router-dom";
-import Logo from '../../assets/img/CK3.png'
+import Logo from '../../assets/img/main2.png'
 
 function Footer() {
     return (
@@ -15,16 +15,20 @@ function Footer() {
                         <div className="widget-item">
                             <div className="about-widget">
                                 <Link to={`${process.env.PUBLIC_URL + "/"}`}>
-                                    <img src={Logo} alt="CK3.png"/>
+                                    <img src={Logo} alt="main2"/>
                                 </Link>
 
                                 <Text>
-                                    During the summer my wife and I got to go on an amazing road trip in Vancouver.
+                                PROVIDE THE BEST AND HIGH QUALITY ENDMILLS AND DRILLS
                                 </Text>
-
+                                <hr></hr>
+                                <Text>
+                                   CKTOOL WEB DEVELOPER:   <b> NAZAROV FIRDAVS </b>
+                                </Text>
                                 <Text classes="copyright-txt">
-                                        &copy; {new Date().getFullYear()} Businex Ltd. All Rights Reserved.
+                                        &copy; {new Date().getFullYear()} CKTOOLS. All Rights Reserved.
                                 </Text>
+                              
                             </div>
                         </div>
                     </div>

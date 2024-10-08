@@ -1,4 +1,7 @@
 import React from 'react';
+import i18next from 'i18next'
+import { useTranslation } from 'react-i18next';
+
 
 const HeaderConfig = () => {
     const LoginRegHandler = () => {
@@ -17,6 +20,7 @@ const HeaderConfig = () => {
             <a href="https://drive.google.com/file/d/1cJMH107BRK3VW0Of8K62ukpGOBLEnlBy/view?usp=sharing" target="blank" className="tel-no">Catalogue</a>
             <button onClick={LoginRegHandler} className="btn-cog"><i className="fa fa-cog"/></button>
             <button onClick={MobileMenuHandler} className="btn-menu d-lg-none"><i className="fa fa-bars"/></button>
+
         </div>
     );
 }

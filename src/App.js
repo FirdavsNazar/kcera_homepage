@@ -1,6 +1,7 @@
 import React from 'react';
 import {BrowserRouter as Router, Switch, Route} from "react-router-dom";
 
+// import './i18n'
 /*
 * @ All pages Import
 */
@@ -20,6 +21,7 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Error404 from "./pages/Error404";
 import ScrollToTop from "./helpers/ScrollToTop";
+import './i18n'
 
 const App = () => {
     return (

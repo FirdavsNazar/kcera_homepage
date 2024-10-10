@@ -24,10 +24,10 @@ const HomeOne = () => {
             <Features classes="sp-top"/>
             <Services classes="sm-top-wt"/>
             {/* <Testimonials/> */}
-            <Team/>
+            {/* <Team/> */}
             <Blog/>
             <BrandLogo/>
-            <Funfact/>
+            {/* <Funfact/> */}
             <CallToAction/>
             <Footer/>
             <MobileMenu/>

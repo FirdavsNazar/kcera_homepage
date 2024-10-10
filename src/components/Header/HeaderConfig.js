@@ -17,7 +17,7 @@ const HeaderConfig = () => {
 
     return (
         <div className="header-action mt-lg-3 text-end">
-            <a href="https://drive.google.com/file/d/1cJMH107BRK3VW0Of8K62ukpGOBLEnlBy/view?usp=sharing" target="blank" className="tel-no">Catalogue</a>
+            <a href="https://drive.google.com/file/d/1wS3HxZgPc20GI8zT32Nt9Li0zWpW_0yw/view?usp=drive_link" target="blank" className="tel-no">Catalogue</a>
             <button onClick={LoginRegHandler} className="btn-cog"><i className="fa fa-cog"/></button>
             <button onClick={MobileMenuHandler} className="btn-menu d-lg-none"><i className="fa fa-bars"/></button>
 

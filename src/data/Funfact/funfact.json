@@ -2,12 +2,12 @@
   {
     "id": 1,
     "counterNumber": 2654,
-    "counterText": "Happy Clients"
+    "counterText": "END MILLS"
   },
   {
     "id": 2,
     "counterNumber": 1520,
-    "counterText": "Project Done"
+    "counterText": "DRILLS"
   },
   {
     "id": 3,
@@ -16,7 +16,7 @@
   },
   {
     "id": 4,
-    "counterNumber": 3580,
-    "counterText": "Cups Coffee"
+    "counterNumber": 35,
+    "counterText": "PARTNERS"
   }
 ]

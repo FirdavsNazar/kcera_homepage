@@ -20,14 +20,15 @@ const PageAbout = () => {
         <Fragment>
             <Header/>
             <PageHeader
-                bgImg={require('../assets/img/about/about_page_header.png')}
+            bgImg={require('../assets/img/about/about_page_header.png')}
+                //  bgVideo={require('../assets/img/about_video.mp4')}     -> it's for video
                 title = <h1> About US </h1>
                 // content= "Businex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly."
-            />
+            /> <br></br>
             <About
                 title={'Our Team'}
                 heading="Meet Our <br/> Expert Member"
-                thumb={ServiceThumb}
+                // thumb={ServiceThumb}
                 content="<b>cktool</b> always try to provide the best Business Solutions for Clinets to grow up their Business very sharply and smoothly. We voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
             />
             {/* <Services/> */}

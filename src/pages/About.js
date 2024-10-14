@@ -21,7 +21,7 @@ const PageAbout = () => {
             <Header/>
             <PageHeader
             bgImg={require('../assets/img/about/about_page_header.png')}
-                //  bgVideo={require('../assets/img/about_video.mp4')}     -> it's for video
+                //  bgVideo={require('../assets/img/about_video.mp4')}
                 title = <h1> About US </h1>
                 // content= "Businex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly."
             /> <br></br>

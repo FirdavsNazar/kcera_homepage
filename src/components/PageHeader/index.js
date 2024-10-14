@@ -1,6 +1,6 @@
 // Main part which didn't change anything
 
-// import React from 'react';
+import React from 'react';
 
 const PageHeader = ({bgImg,title,content}) => {
     return (

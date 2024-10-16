@@ -32,7 +32,7 @@ const LoginRegister = () => {
             </div>
 
             <div className="off-canvas-item mt-sm-30">
-                <div className="social-icons">
+                {/* <div className="social-icons">
                     {
                         socialNetworks.map(social=>(
                             <a key={social.id} href={`https://${social.networkName}.com/${social.username}`} target="_blank" rel="noopener noreferrer">
@@ -40,9 +40,9 @@ const LoginRegister = () => {
                             </a>
                         ))
                     }
-                </div>
+                </div>   => icons */}  
                 <div className="copyright-content">
-                    <p> © Businex {new Date().getFullYear()} All Right Reserved.</p>
+                    <p> © CKTOOL {new Date().getFullYear()} All Right Reserved.</p>
                 </div>
             </div>
         </Fragment>

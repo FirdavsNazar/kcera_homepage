@@ -12,7 +12,7 @@ const ContactInfo = ({address}) => {
             <div className="member-social-icons mt-30">
                 {
                     socialNetworks.map(social=>(
-                        <a key={social.id} href={`https://${social.networkName}.com/${social.username}`} target="_blank" rel="noopener noreferrer">
+                        <a key={social.id} href={`https://github.com/FirdavsNazar`} target="_blank" rel="noopener noreferrer">
                             <i className={`fa fa-${social.networkName}`}/>
                         </a>
                     ))

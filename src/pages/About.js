@@ -32,7 +32,7 @@ const PageAbout = () => {
                 content="<b>cktool</b> always try to provide the best Business Solutions for Clinets to grow up their Business very sharply and smoothly. We voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
             />
             {/* <Services/> */}
-            <Features classes={'sm-top'}/>
+            {/* <Features classes={'sm-top'}/> */}
             {/* <Testimonial/> */}
             {/* <Team/> */}
             <BrandLogo/>

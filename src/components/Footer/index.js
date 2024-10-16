@@ -19,16 +19,12 @@ function Footer() {
                                 </Link>
 
                                 <Text>
-                                PROVIDE THE BEST AND HIGH QUALITY ENDMILLS AND DRILLS
+                                &copy; {new Date().getFullYear()} CKTOOLS. All Rights Reserved.
                                 </Text>
                                 <hr></hr>
                                 <Text>
                                    CKTOOL WEB DEVELOPER:   <b> NAZAROV FIRDAVS </b>
                                 </Text>
-                                <Text classes="copyright-txt">
-                                        &copy; {new Date().getFullYear()} CKTOOLS. All Rights Reserved.
-                                </Text>
-                              
                             </div>
                         </div>
                     </div>
@@ -36,31 +32,31 @@ function Footer() {
                     <div className="col-md-4 col-lg-2 ml-auto">
                         <Widget title="Information">
                             <List classes="widget-list">
-                                <LI><Link to={`${process.env.PUBLIC_URL + "/about"}`}>Our company</Link></LI>
-                                <LI><Link to={`${process.env.PUBLIC_URL + "/contact"}`}>Contact us</Link></LI>
-                                <LI><Link to={`${process.env.PUBLIC_URL + "/services"}`}>Our services</Link></LI>
-                                <LI><Link to={`${process.env.PUBLIC_URL + "/"}`}>Careers</Link></LI>
+                                <LI><Link to={`${process.env.PUBLIC_URL + "/home-one"}`}>Our company</Link></LI>
+                                <LI><Link to={`${process.env.PUBLIC_URL + "/about"}`}>About us</Link></LI>
+                                <LI><Link to={`${process.env.PUBLIC_URL + "/team"}`}>Our products</Link></LI>
+                                <LI><Link to={`${process.env.PUBLIC_URL + "/services"}`}>Direction</Link></LI>
                             </List>
                         </Widget>
                     </div>
 
                     <div className="col-md-4 col-lg-2 ml-auto">
-                        <Widget title="Social Links">
+                        <Widget title="Contact">
                             <List classes="widget-list">
-                                <LI><Link to="https://facebook.com/hasthemes/" target={'_blank'}>Facebook</Link></LI>
-                                <LI><Link to="https://twitter.com/hasthemes/" target={'_blank'}>Twitter</Link></LI>
-                                <LI><Link to="https://dribbble.com/hastech/" target={'_blank'}>Dribbble</Link></LI>
-                                <LI><Link to="https://www.instagram.com/" target={'_blank'}>Instagram</Link></LI>
+                                <LI> <strong>Email: </strong> </LI>
+                                <LI> cktoolcom@gmail.com </LI>
+                                <LI> <strong>Number: </strong></LI>
+                                <LI> ((+82) 031-605-1115) </LI>
+                                <LI> <strong>Fax: </strong></LI>
+                                <LI> ((+82) 070-8731-1114)</LI>
                             </List>
                         </Widget>
                     </div>
 
                     <div className="col-md-4 col-lg-3">
-                        <Widget title="Contact Us">
+                        <Widget title="Address">
                             <address>
-                                Megadong1011, SKN technopark, Sagimakgol-ro124, Jungwon-gu, Seongnam-si, Gyonggi-do, S.Korea <br/>
-                                https://cktoolkor.netlify.app/ <br/>
-                                (+82) 31-605-1115
+                                Megadong1011, SKN technopark, Sagimakgol-ro124, Jungwon-gu, Seongnam-si, Gyonggi-do, S.Korea <br/> <br/>
                             </address>
                         </Widget>
                     </div>

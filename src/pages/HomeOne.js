@@ -28,7 +28,8 @@ const HomeOne = () => {
             <Blog/>
             <BrandLogo/>
             <Funfact/>
-            <CallToAction/>
+            {/* <CallToAction/> */}
+            <br></br> <br></br>  <br></br> <br></br>
             <Footer/>
             <MobileMenu/>
             <LoginRegister/>

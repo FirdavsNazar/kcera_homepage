@@ -12,7 +12,8 @@ const PageContact = () => {
         <Fragment>
             <Header/>
             <ContactPage/>
-            <CallToAction/>
+            {/* <CallToAction/> */}
+            <br></br> <br></br>  <br></br> <br></br>
             <Footer/>
             <LoginRegister/>
             <MobileMenu/>

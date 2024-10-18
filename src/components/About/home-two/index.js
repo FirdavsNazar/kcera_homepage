@@ -1,7 +1,7 @@
 import React from 'react';
 import parse from "html-react-parser";
 import aboutData from "../../../data/About/home-two";
-import aboutThumb from '../../../assets/img/about-2-bg.jpg'
+import aboutThumb from '../../../assets/img/about/about_main.png'
 import {Link} from "react-router-dom";
 
 const About = () => {

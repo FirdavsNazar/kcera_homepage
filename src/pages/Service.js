@@ -39,7 +39,7 @@ const PageService = () => {
             <BrandLogo/>
             <Funfact classes="sp-top"/>
             {/* <CallToAction/> */}
-            <br></br> <br></br>  <br></br> <br></br>
+            <br></br> <br></br>
             <Footer/>
             <LoginRegister/>
             <MobileMenu/>

@@ -71,6 +71,30 @@
   }
 }
 
+// .about-thumb {
+//   overflow: hidden;
+
+//   // For small devices (already present)
+//   @media #{$sm-device} {
+//     margin-bottom: 35px;
+//   }
+
+//   // For all images within the container
+//   img {
+//     width: 100%;
+//     height: auto; // Ensures aspect ratio is maintained
+//     object-fit: cover; // Ensures the image covers the container without distortion
+//     transition: 0.4s;
+//   }
+
+//   // Specific adjustment for larger screens (if needed)
+//   @media (min-width: 992px) {
+//     &--2 {
+//       margin-right: 0; // Fix the margin-right issue on larger screens
+//     }
+//   }
+// }
+
 .about-thumb {
   overflow: hidden;
 
@@ -93,11 +117,12 @@
 .home-two-about-area{
   background-color: $offWhite;
   //background-image: url('../img/about-2-bg.jpg');
-  background-position: center right;
+  background-position: center;
   background-repeat: no-repeat;
+  background-size: cover;
 
   @media #{$lg-device, $xlmax-device} {
-    background-size: 1100px auto;
+    background-size: contain;
   }
 
   @media #{$sm-device, $md-device} {
@@ -109,13 +134,13 @@
     padding-bottom: 110px;
 
     @media #{$md-device} {
-      padding-top: 40px;
+      padding-top: 50px;
       padding-bottom: 90px;
     }
 
     @media #{$sm-device} {
       padding-bottom: 60px;
-      padding-top: 0;
+      padding-top: 30px;
     }
   }
 }

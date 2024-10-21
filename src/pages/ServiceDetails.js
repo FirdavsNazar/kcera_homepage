@@ -16,7 +16,7 @@ const PageServiceDetails = () => {
             <BrandLogo/>
             <Funfact/>
             {/* <CallToAction/> */}
-            <br></br> <br></br>  <br></br> <br></br>
+            <br></br> <br></br>
             <Footer/>
             <LoginRegister/>
             <MobileMenu/>

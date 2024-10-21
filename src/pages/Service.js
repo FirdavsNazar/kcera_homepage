@@ -22,21 +22,28 @@ const PageService = () => {
                 bgImg={require('../assets/img/direction_main.png')}
                 title={
                     <span style={{ color: 'black' }}>
-                      DIRECTION
+                      {/* DIRECTION */}
                     </span>
                   }
             />
             <PageAbout
-                title={'Our Services'}
-                heading="Provide best <br/> Business Solutions"
+                title={'DIRECTION'}
+                heading="CK TOOL"
                 thumb={ServiceThumb}
-                content="<b>Businex</b> always try to provide the best Business Solutions for Clinets to grow up their Business very sharply and smoothly. We voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+                content="<a> <strong>Address: </strong> </a>   
+                               <LI> Megadong1011, SKN technopark, Sagimakgol-ro124, Jungwon-gu, Seongnam-si, Gyonggi-do, S.Korea </LI>
+                                <a> <strong>Email: </strong> </a>
+                                <LI> cktoolcom@gmail.com </LI>
+                                <a> <strong>Number: </strong></a>
+                                <LI> ((+82) 031-605-1115) </LI>
+                                <a> <strong>Fax: </strong></a>
+                                <LI> ((+82) 070-8731-1114)</LI>"
             />
             
             {/* <Services classes="sm-top"/> */}
             {/* <PricingTable/> */}
             {/* <Testimonial/> */}
-            <BrandLogo/>
+            {/* <BrandLogo/> */}
             <Funfact classes="sp-top"/>
             {/* <CallToAction/> */}
             <br></br> <br></br>

@@ -1,20 +1,19 @@
 [
   {
     "id": 1,
-    "quote": "Very much happy with provide the best Business Solutions for Clients to grow up their Business very sharply.",
-    "author": "David Loyed",
+    "quote": "Automobile Manufacturing Industry",
     "authorThumb": "testimonial/client-01.jpg"
   },
   {
     "id": 2,
-    "quote": "Very much happy with provide the best Business Solutions for Clients to grow up their Business very sharply.",
-    "author": "Alex Tuntuni",
+    "quote": "Automobile Manufacturing Industry",
+   
     "authorThumb": "testimonial/client-02.jpg"
   },
   {
     "id": 3,
-    "quote": "Very much happy with provide the best Business Solutions for Clients to grow up their Business very sharply.",
-    "author": "John Fault",
+    "quote": "Automobile Manufacturing Industry",
+   
     "authorThumb": "testimonial/client-03.jpg"
   }
 ]

@@ -130,8 +130,8 @@
   }
 
   .about-content{
-    padding-top: 100px;
-    padding-bottom: 110px;
+    padding-top: 90px;
+    padding-bottom: 10px;
 
     @media #{$md-device} {
       padding-top: 50px;
@@ -140,7 +140,7 @@
 
     @media #{$sm-device} {
       padding-bottom: 60px;
-      padding-top: 30px;
+      padding-top: 20px;
     }
   }
 }

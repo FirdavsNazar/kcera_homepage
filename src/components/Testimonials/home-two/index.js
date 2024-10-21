@@ -44,8 +44,8 @@ class Testimonial extends Component {
                     <div className="row d-lg-none">
                         <div className="col-12 text-center">
                             <SectionTitle
-                                title="TESTIMONIALS"
-                                heading="Don’t Believe us, <br/> Check Client Word"
+                                // title="TESTIMONIALS"
+                                heading="Tool Solutions, <br/> For Industry"
                                 tagline="More over <span class='tag-no'>1900+</span><strong>customer</strong>"
                             />
                         </div>
@@ -77,9 +77,9 @@ class Testimonial extends Component {
                             <div className="testimonial-area-right">
                                 <div className="d-none d-lg-block">
                                     <SectionTitle
-                                        title="TESTIMONIALS"
-                                        heading="Don’t Believe us, <br/> Check Client Word"
-                                        tagline="More over <span class='tag-no'>1900+</span><strong>customer</strong>"
+                                        // title="TESTIMONIALS"
+                                        heading="Tool Solutions, <br/> For Industry"
+                                        // tagline="More over <span class='tag-no'>1900+</span><strong>customer</strong>"
                                     />
                                 </div>
 

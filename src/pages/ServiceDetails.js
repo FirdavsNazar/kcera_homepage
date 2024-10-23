@@ -13,7 +13,7 @@ const PageServiceDetails = () => {
         <Fragment>
             <Header/>
             <ServiceDetails/>
-            <BrandLogo/>
+            {/* <BrandLogo/> */}
             <Funfact/>
             {/* <CallToAction/> */}
             <br></br> <br></br>

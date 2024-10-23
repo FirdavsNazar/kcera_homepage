@@ -12,7 +12,7 @@ import Footer from "../components/Footer";
 import LoginRegister from "../components/LoginRegister";
 import MobileMenu from "../components/MobileMenu";
 
-import ServiceThumb from '../assets/img/about.jpg'
+import ServiceThumb from '../assets/img/direction/map.png'
 
 const PageService = () => {
     return (
@@ -40,7 +40,7 @@ const PageService = () => {
                                 <LI> ((+82) 070-8731-1114)</LI>"
             />
             
-            
+
             {/* <Services classes="sm-top"/> */}
             {/* <PricingTable/> */}
             {/* <Testimonial/> */}

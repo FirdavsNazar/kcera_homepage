@@ -46,13 +46,13 @@ const ServiceContentWrap = ({service,totalService,prevService,nextService}) => {
                     </div>
 
                     <div className="how-we-works-wrap mt-50 mt-sm-35">
-                        <h4>How we work</h4>
-                        <Text styles={{marginBottom:20}}>
+                        {/* <h4>How we work</h4> */}
+                        {/* <Text styles={{marginBottom:20}}>
                             voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt
                             ut labore et dolore magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum
-                        </Text>
+                        </Text> */}
 
-                        <div className="how-we-works-content service-details-page">
+                        {/* <div className="how-we-works-content service-details-page">
                             <div className="row">
                                 {
                                     HowWeWorksData.map(iconbox=>(
@@ -65,7 +65,7 @@ const ServiceContentWrap = ({service,totalService,prevService,nextService}) => {
                                     ))
                                 }
                             </div>
-                        </div>
+                        </div> */}
                     </div>
 
                     <div className="pagination-wrap">
@@ -74,14 +74,14 @@ const ServiceContentWrap = ({service,totalService,prevService,nextService}) => {
                                 <a href={`${process.env.PUBLIC_URL + `/service/${prevService.title.split(' ').join('-').toLocaleLowerCase()}?id=${prevService.id}`}`}
                                    className={service.id === 1 ? "disabled" : null}
                                 >
-                                    <i className="fa fa-long-arrow-left"/> Previous
+                                    {/* <i className="fa fa-long-arrow-left"/> Previous */}
                                 </a>
                             </li>
                             <li className="next">
                                 <a href={`${process.env.PUBLIC_URL + `/service/${nextService.title.split(' ').join('-').toLocaleLowerCase()}?id=${nextService.id}`}`}
                                    className={service.id === totalService ? "disabled" : null}
                                 >
-                                    Next <i className="fa fa-long-arrow-right"/>
+                                    {/* Next <i className="fa fa-long-arrow-right"/> */}
                                 </a>
                             </li>
                         </ul>

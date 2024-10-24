@@ -11,7 +11,7 @@ const PageBlog = () => {
         <Fragment>
             <Header/>
             <BlogPage blog_type={'grid'} sidebar={true} sidebar_position={'left'}/>
-            <CallToAction/>
+            {/* <CallToAction/> */}
             <Footer/>
             <LoginRegister/>
             <MobileMenu/>

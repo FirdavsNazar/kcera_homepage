@@ -51,12 +51,12 @@ const ServiceDetails = () => {
                         </List>
                     </SidebarItem>
 
-                    <SidebarItem title="Download Brochure">
+                    {/* <SidebarItem title="Download Brochure">
                         <List classes="service-list">
                             <LI><Anchor path='/'><i className="fa fa-file-pdf-o"/>Brochures.PDF</Anchor></LI>
                             <LI><Anchor path='/'><i className="fa fa-file-word-o"/>Brochures.DOC</Anchor></LI>
                         </List>
-                    </SidebarItem>
+                    </SidebarItem> */}
                 </Sidebar>
             </PageWrapper>
 

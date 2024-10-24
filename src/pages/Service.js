@@ -19,7 +19,7 @@ const PageService = () => {
         <Fragment>
             <Header/>
             <PageHeader
-                bgImg={require('../assets/img/direction_main.png')}
+               bgImg={require('../assets/img/direction_main.png')}
                 title={
                     <span style={{ color: 'black' }}>
                       {/* DIRECTION */}

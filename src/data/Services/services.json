@@ -18,9 +18,9 @@
     "title": "OMPX",
     "thumb": "service/2ompx.png",
     "previewImages": [
-      "service/details/01.jpg",
-      "service/details/02.jpg",
-      "service/details/03.jpg"
+      "service/details/ompx/02_ompx_kr.png",
+      "service/details/ompx/01_ompx_en.png",
+      "service/details/ompx/03_ompx_test.png"
     ],
     "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
     "features": [
@@ -32,9 +32,9 @@
     "title": "OMH",
     "thumb": "service/3omh.png",
     "previewImages": [
-      "service/details/01.jpg",
-      "service/details/02.jpg",
-      "service/details/03.jpg"
+      "service/details/omh/02_omh_kr.png",
+      "service/details/omh/01_omh_en.png",
+      "service/details/omh/02_omh_kr.png"
     ],
     "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
     "features": [

@@ -69,10 +69,9 @@
       "service/details/oms/01_oms_en.png",
       "service/details/oms/03_oms_test.png"
     ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+   "aboutServiceDesc": "<p> Series For High Temperature Alloy </p> <p> 1) Variable core thickness groove design, suitable for workpiece of weak rigidity or thin-wall processing. </p> <p> 2) Unique cutting edge design ensures high rigidity and excellent vibration resistance.</p>",
     "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+      "The arc design of the center edge of the ball head blade extends."
     ]
   },
   {
@@ -85,10 +84,10 @@
       "service/details/omm/01_omm_en.png",
       "service/details/omm/03_omm_test.png"
     ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "aboutServiceDesc": "<p> Series For Stainless Steel Machining</p>   <p> 1) The design of unequal spirals and unequal teeth can achieve stable and efficient processing, with a good processing surface and no vibration lines.</p>  <p> 2) The spiral groove adopts U-shaped groove structure design to increase the chip holding space and facilitate chip discharge.  </p> <p> 3) The peripheral edge flank surface has high grinding quality, which avoids adhesive wear and improves the surface quality of the workpiece and tool life.  </p>",
     "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+      "Unequal tooth structure to increase vibration resistance",
+      "Double GASH structure ensures rigidity while increasing chip space"
     ]
   },
   {
@@ -101,10 +100,9 @@
       "service/details/omal/01_omal_en.png",
       "service/details/omal/03_omal_test.png"
     ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+   "aboutServiceDesc": "<p> Series For Aluminum Machining </p>   <p> 1) Sharp cutting edge and edge treatment technology effectively prevent the occurrence of built-up edge. </p>  <p> 2) The unique chip groove shape also shows excellent performance in groove and cavity processing.  </p>",
     "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+      "The design of ultra-fine grains and the base material with uniform structure make it easier for the tool to achieve excellent edge grinding and processing effects."
     ]
   },
   {
@@ -117,10 +115,10 @@
       "service/details/odb/01_odp_en.png",
       "service/details/odb/03_odp_test.png"
     ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "aboutServiceDesc": "<p> Drill Series For High Performance General Machining </p>   <p> 1) New generation of TiSiN composite coating for general purpose drills.</p>  <p> 2) Drill tip cutting edge type : The optimized creacent cutting edge enables good hole accuracy and chip handling.  </p>",
     "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+      "Excellent composite coating technology : Unique multilayer coating technology,  it has excellent wear resistance, heat resistance and solubility resistance.",
+      "Fluid chip breaker : Adopt new groove shape, reduce cutting resistance and improve drill strength, iron chip processing is excellent, smooth chip removal, strong versatility."
     ]
   }
 ]

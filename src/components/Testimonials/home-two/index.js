@@ -96,7 +96,7 @@ class Testimonial extends Component {
                                                         <div className="testimonial-txt">
                                                             <img src={quote} alt="Businex"/>
                                                             <p>{testiItem.quote}</p>
-                                                            <h5 className="client-name">{testiItem.author}, <span
+                                                            <h5 className="client-name">{testiItem.author} <span
                                                                 className="designation">{testiItem.designation}</span>
                                                             </h5>
                                                         </div>

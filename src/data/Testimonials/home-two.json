@@ -2,21 +2,21 @@
   {
     "id": 1,
     "quote": "Automobile Manufacturing Industry",
-    "author": "David Loyed",
     "authorThumb": "testimonial/01.png"
   },
   {
     "id": 2,
-    "quote": "Very much happy with provide the best Business Solutions for Clients to grow up their Business very sharply.",
-    "author": "Alex Tuntuni",
-    "authorThumb": "testimonial/02.png",
-    "designation": "Co-Founder, Tuntuni Group"
+    "quote": "Mold Manufacturing Industry ",
+    "authorThumb": "testimonial/02.png"
   },
   {
     "id": 3,
-    "quote": "Very much happy with provide the best Business Solutions for Clients to grow up their Business very sharply.",
-    "author": "John Fault",
-    "authorThumb": "testimonial/03.png",
-    "designation": "COO, Mafia Group"
+    "quote": "Rail Transit",
+    "authorThumb": "testimonial/03.png"
+  },
+  {
+    "id": 4,
+    "quote": "Aerospace",
+    "authorThumb": "testimonial/04.png"
   }
 ]

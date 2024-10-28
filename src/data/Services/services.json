@@ -2,64 +2,67 @@
   {
     "id": 1,
     "title": "OMPQ",
+    "shortDesc": " (ENDMILL)",
     "thumb": "service/1ompq.png",
     "previewImages": [
       "service/details/ompq/02_ompq_kr.png",
       "service/details/ompq/01_ompq_en.png",
       "service/details/ompq/03_ompq_test.png"
     ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "aboutServiceDesc": "<p> Series For General Machining  </p>  <p> 1) Curved flank structure that takes both edge strength and wear resistance into consideration.</p>",
     "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+      "The newly upgraded chip breaker not only ensures sufficient chip space, but also improves the strength and rigidity of the peripheral edge. It is suitable for finishing from finishing to roughing, and the tool performance is more comprehensive."
     ]
   },
   {
     "id": 2,
     "title": "OMPX",
+    "shortDesc": "(ENDMILL)",
     "thumb": "service/2ompx.png",
     "previewImages": [
       "service/details/ompx/02_ompx_kr.png",
       "service/details/ompx/01_ompx_en.png",
       "service/details/ompx/03_ompx_test.png"
     ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "aboutServiceDesc": "<p>  Series For High Performance Machining </p> <p> <b> Ultra-fine grains: </b>  Excellent wear resistance and extremely high bending strength.</p> <p> <b> ALTiN Coating: </b> More wear-resistant and high-temperature resistant nanocomposite coating.</p>",
     "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+      "Differential helical angle and pitch design offer high vibration resistance."
     ]
   },
   {
     "id": 3,
     "title": "OMH",
+    "shortDesc": "(ENDMILL)",
     "thumb": "service/3omh.png",
     "previewImages": [
       "service/details/omh/02_omh_kr.png",
       "service/details/omh/01_omh_en.png",
       "service/details/omh/02_omh_kr.png"
     ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "aboutServiceDesc": "<p> Series For Quenched Steel Machining </p> <p> 1) The series are suitable for semi finishing and finishing of steel <HRC55 and quenched steel. </p> <p> 2) High rigidity tool structure design, effectively reduces the vibration in the process of tool machining.</p>",
     "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+      "High strength, high toughess substrate with new high hard special coating, effectively prolongs the tool life, also  gives better workpiece surface quality."
     ]
   },
   {
     "id": 4,
     "title": "OMHH",
+    "shortDesc": "(ENDMILL)",
     "thumb": "service/5oms.png",
     "previewImages": [
       "service/details/omhh/02_omhh_kr.png",
       "service/details/omhh/01_omhh_en.png",
       "service/details/omhh/03_omhh_test.png"
     ],
-    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "aboutServiceDesc": "<p> Series For High Hardened Steel Machining </p> <p> 1) High-rigidity and high-strength cutting edge structure design </p> <p> 2) New ultra fine cemented carbide substrate</p> </p> <p> 3) Fine cutting edge surface treatment</p>",
     "features": [
-      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
-      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+      "Negative rake angle, which makes the cutting edge strength and cutting force match reasonably, and gives a wider range of applications."
     ]
   },
   {
     "id": 5,
     "title": "OMS",
+    "shortDesc": "(ENDMILL)",
     "thumb": "service/4omhh.png",
     "previewImages": [
       "service/details/oms/02_oms_kr.png",
@@ -75,6 +78,7 @@
   {
     "id": 6,
     "title": "OMM",
+    "shortDesc": "(ENDMILL)",
     "thumb": "service/6omm.png",
     "previewImages": [
       "service/details/omm/02_omm_kr.png",
@@ -90,6 +94,7 @@
   {
     "id": 7,
     "title": "OMAL",
+    "shortDesc": "(ENDMILL)",
     "thumb": "service/7 omal.png",
     "previewImages": [
       "service/details/omal/02_omal_kr.png",
@@ -105,6 +110,7 @@
   {
     "id": 8,
     "title": "ODB",
+    "shortDesc": "(DRILL)",
     "thumb": "service/8 odp.png",
     "previewImages": [
      "service/details/odb/02_odp_kr.png",

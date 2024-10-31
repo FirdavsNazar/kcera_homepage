@@ -5,6 +5,7 @@ import Footer from "../components/Footer";
 import LoginRegister from "../components/LoginRegister";
 import MobileMenu from "../components/MobileMenu";
 import CallToAction from "../components/CallToAction";
+import Funfact from '../components/Funfact';
 
 const PageBlog = () => {
     return (
@@ -12,6 +13,8 @@ const PageBlog = () => {
             <Header/>
             <BlogPage blog_type={'grid'} sidebar={true} sidebar_position={'left'}/>
             {/* <CallToAction/> */}
+            {/* <Funfact/>
+            <br></br> <br></br> */}
             <Footer/>
             <LoginRegister/>
             <MobileMenu/>

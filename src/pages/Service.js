@@ -45,9 +45,9 @@ const PageService = () => {
             {/* <PricingTable/> */}
             {/* <Testimonial/> */}
             {/* <BrandLogo/> */}
-            <Funfact classes="sp-top"/>
+            {/* <Funfact classes="sp-top"/> */}
             {/* <CallToAction/> */}
-            <br></br> <br></br>
+            <br></br> <br></br> <br></br><br></br><br></br>
             <Footer/>
             <LoginRegister/>
             <MobileMenu/>

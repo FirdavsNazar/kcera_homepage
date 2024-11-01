@@ -31,7 +31,7 @@ const PageService = () => {
                 heading="CK TOOL"
                 thumb={ServiceThumb}
                 content="<a> <strong>Address: </strong> </a>   
-                               <LI> Megadong1011, SKN technopark, Sagimakgol-ro124, Jungwon-gu, Seongnam-si, Gyonggi-do, S.Korea </LI>
+                               <LI> Megadong 1007-ho, SKN Technopark, Sagimakgol-ro 124, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea </LI>
                                 <a> <strong>Email: </strong> </a>
                                 <LI> cktoolcom@gmail.com </LI>
                                 <a> <strong>Number: </strong></a>

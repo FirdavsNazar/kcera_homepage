@@ -56,7 +56,7 @@ function Footer() {
                     <div className="col-md-4 col-lg-3">
                         <Widget title="Address">
                             <address>
-                                Megadong1011, SKN technopark, Sagimakgol-ro124, Jungwon-gu, Seongnam-si, Gyonggi-do, S.Korea <br/> <br/>
+                            Megadong 1007-ho, SKN Technopark, Sagimakgol-ro 124, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea <br/> <br/>
                             </address>
                         </Widget>
                     </div>

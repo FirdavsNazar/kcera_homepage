@@ -82,6 +82,8 @@
 
 // export default Slider;
 
+
+
 // After update/////
 
 

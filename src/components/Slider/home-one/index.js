@@ -1,3 +1,6 @@
+
+// the previous one
+
 // import React from 'react';
 // import SlickSlider from '../../UI/Slick'
 // import SliderData from '../../../data/Slider/home-1'
@@ -78,6 +81,8 @@
 // ;
 
 // export default Slider;
+
+// After update/////
 
 
 import React from 'react';

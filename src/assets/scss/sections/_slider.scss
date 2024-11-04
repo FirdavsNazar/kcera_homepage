@@ -83,6 +83,26 @@
 .slider-area {
   position: relative;
 
+  .slider-item {
+    video {
+      display: block;
+
+      // Hide video on smaller screens
+      @media (max-width: 853px) {
+        display: none !important;
+      }
+    }
+
+    img {
+      display: none;
+
+      // Show image on smaller screens
+      @media (max-width: 853px) {
+        display: block !important;
+      }
+    }
+  }
+
   .slick-arrow {
     color: $blackSoft;
     position: absolute;

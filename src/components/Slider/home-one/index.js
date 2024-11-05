@@ -138,7 +138,6 @@ const Slider = () => {
                                 muted
                                 loop
                                 className="slider-video"
-                                style={{ width: '100%', height: '100%' }}
                             />
                         )}
 

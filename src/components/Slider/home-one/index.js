@@ -143,7 +143,7 @@ const Slider = () => {
 
                         {/* Image element */}
                         <img
-                            src={require(`../../../assets/img/about/about_us2.png`)}
+                            src={require(`../../../assets/img/slider/main_mobile.png`)}
                             alt="Background"
                             className="slider-image"
                             style={{ width: '100%', height: '100%' }}

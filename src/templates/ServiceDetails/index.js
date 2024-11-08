@@ -37,7 +37,7 @@ const ServiceDetails = () => {
                 />
 
                 <Sidebar classes={'col-lg-4 mtn-40'}>
-                    <SidebarItem title="Services">
+                    <SidebarItem title="Products">
                         <List classes="service-list">
                             {
                                 ServicesData.map(serviceItem=>(

@@ -32,7 +32,7 @@ const ServiceContentWrap = ({service,totalService,prevService,nextService}) => {
                     <p>{service.shortDesc}</p>
 
                     <div className="about-service mt-50 mt-sm-35">
-                        <h4>About this Service</h4>
+                        <h4>About</h4>
                         {
                             <div dangerouslySetInnerHTML={{__html: service.aboutServiceDesc}}/>
                         }

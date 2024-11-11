@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "New Business Strategy",
+    "title": "Open Ceremony",
     "excerpt": "We have great creative team they always ready to helped you. voluptatem quiase voluptase aspernatur auted fugit",
-    "thumb": "blog/01.jpg",
+    "thumb": "tech_news/01.png",
     "content": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi quibusdam quos ratione rem saepe sequi sit unde ut velit vitae. Amet ea error expedita, laboriosam maxime officiis porro ut velit.</p> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p> <blockquote class='blockquote'><p>dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p></blockquote><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi quibusdam quos ratione rem saepe sequi sit unde ut velit vitae. Amet ea error expedita, laboriosam maxime officiis porro ut velit.</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p>",
-    "publishDate": "Feb 01, 2020",
+    "publishDate": "Aug 24, 2024",
     "author": {
-      "name": "Alex Tuntuni",
-      "designation": "Content Writer",
-      "proPic": "team/01.jpg",
+      "name": "Jiyeong",
+      "designation": "Main designer",
+      "proPic": "tech_news/01-01.png",
       "socials": {
         "facebook": "hasthemes",
         "twitter": "hasthemes",
@@ -19,11 +19,11 @@
   },
   {
     "id": 2,
-    "title": "Master Business Plan",
+    "title": "Coming soon",
     "excerpt": "We have great creative team they always ready to helped you. voluptatem quiase voluptase aspernatur auted fugit",
     "thumb": "blog/02.jpg",
     "content": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi quibusdam quos ratione rem saepe sequi sit unde ut velit vitae. Amet ea error expedita, laboriosam maxime officiis porro ut velit.</p> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p> <blockquote class='blockquote'><p>dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p></blockquote><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi quibusdam quos ratione rem saepe sequi sit unde ut velit vitae. Amet ea error expedita, laboriosam maxime officiis porro ut velit.</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p>",
-    "publishDate": "Feb 02, 2020",
+    "publishDate": "Feb 02, 2024",
     "author": {
       "name": "Necklaces Jahan",
       "designation": "Content Writer",
@@ -37,11 +37,11 @@
   },
   {
     "id": 3,
-    "title": "Corporate Conference 2019",
+    "title": "Coming soon",
     "excerpt": "We have great creative team they always ready to helped you. voluptatem quiase voluptase aspernatur auted fugit",
     "thumb": "blog/03.jpg",
     "content": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi quibusdam quos ratione rem saepe sequi sit unde ut velit vitae. Amet ea error expedita, laboriosam maxime officiis porro ut velit.</p> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p> <blockquote class='blockquote'><p>dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p></blockquote><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi quibusdam quos ratione rem saepe sequi sit unde ut velit vitae. Amet ea error expedita, laboriosam maxime officiis porro ut velit.</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p>",
-    "publishDate": "Feb 03, 2020",
+    "publishDate": "Feb 03, 2024",
     "author": {
       "name": "Raju Ahammad",
       "designation": "Content Writer",
@@ -55,11 +55,11 @@
   },
   {
     "id": 4,
-    "title": "When the morning dawns",
+    "title": "Coming soon",
     "excerpt": "If I have a chance to whisper the best advice to a baby and he’ll remember it for the rest of his life is this",
     "thumb": "blog/04.jpg",
     "content": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi quibusdam quos ratione rem saepe sequi sit unde ut velit vitae. Amet ea error expedita, laboriosam maxime officiis porro ut velit.</p> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p> <blockquote class='blockquote'><p>dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p></blockquote><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi quibusdam quos ratione rem saepe sequi sit unde ut velit vitae. Amet ea error expedita, laboriosam maxime officiis porro ut velit.</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p>",
-    "publishDate": "Feb 04, 2020",
+    "publishDate": "Feb 04, 2024",
     "author": {
       "name": "Tunir Ma",
       "designation": "Content Writer",
@@ -73,11 +73,11 @@
   },
   {
     "id": 5,
-    "title": "Become who you say you",
+    "title": "Coming soon",
     "excerpt": "Treat yourself to a night relive laden age of the railway Petworth with stay at The Old Railway Station in West Sussex",
     "thumb": "blog/05.jpg",
     "content": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi quibusdam quos ratione rem saepe sequi sit unde ut velit vitae. Amet ea error expedita, laboriosam maxime officiis porro ut velit.</p> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p> <blockquote class='blockquote'><p>dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p></blockquote><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi quibusdam quos ratione rem saepe sequi sit unde ut velit vitae. Amet ea error expedita, laboriosam maxime officiis porro ut velit.</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p>",
-    "publishDate": "Feb 05, 2020",
+    "publishDate": "Feb 05, 2024",
     "author": {
       "name": "John Smith",
       "designation": "Content Writer",
@@ -91,11 +91,11 @@
   },
   {
     "id": 6,
-    "title": "Daily reason to be happy",
+    "title": "Coming soon",
     "excerpt": "Happiness is the universal feeling we all aspire to experience more of, yet, we can be an angry, moody",
     "thumb": "blog/06.jpg",
     "content": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi quibusdam quos ratione rem saepe sequi sit unde ut velit vitae. Amet ea error expedita, laboriosam maxime officiis porro ut velit.</p> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p> <blockquote class='blockquote'><p>dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p></blockquote><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi quibusdam quos ratione rem saepe sequi sit unde ut velit vitae. Amet ea error expedita, laboriosam maxime officiis porro ut velit.</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aperiam assumenda culpa cumque debitis dignissimos, dolor dolores doloribus ducimus fuga iusto magni maiores minus nam numquam officiis provident quasi</p>",
-    "publishDate": "Feb 06, 2020",
+    "publishDate": "Feb 06, 2024",
     "author": {
       "name": "Hasna Alex",
       "designation": "Content Writer",

@@ -34,13 +34,13 @@ const SidebarForBlog = ({classes}) => {
                 </div>
             </SidebarItem>
 
-            <SidebarItem classes={'single-sidebar-item-wrap'}>
+            {/* <SidebarItem classes={'single-sidebar-item-wrap'}>
                 <Newsletter/>
-            </SidebarItem>
+            </SidebarItem> */}
 
-            <SidebarItem classes={'single-sidebar-item-wrap'}>
+            {/* <SidebarItem classes={'single-sidebar-item-wrap'}>
                 <img src={BannerImg} alt="Banner"/>
-            </SidebarItem>
+            </SidebarItem> */}
         </Sidebar>
     );
 };

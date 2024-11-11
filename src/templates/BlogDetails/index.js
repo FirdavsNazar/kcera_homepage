@@ -12,9 +12,9 @@ const BlogDetailsPage = ({sidebar}) => {
     return (
         <Fragment>
             <PageHeader
-                bgImg={require('../../assets/img/page-header.jpg')}
-                title={post.title}
-                content={post.excerpt}
+                bgImg={require('../../assets/img/tech_news/tech_main.png')}
+                // title={post.title}
+                // content={post.excerpt}
             />
 
             <PageWrapper classes={'blog-details-page-content sp-y'}>

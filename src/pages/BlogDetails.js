@@ -11,7 +11,7 @@ const PageBlog = () => {
         <Fragment>
             <Header/>
             <BlogDetailsPage sidebar={false}/>
-            <CallToAction/>
+            {/* <CallToAction/> */} <br/>
             <Footer/>
             <LoginRegister/>
             <MobileMenu/>

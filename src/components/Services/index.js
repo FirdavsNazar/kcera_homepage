@@ -12,7 +12,7 @@ function Services({classes}) {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-6 col-xl-5 m-auto text-center">
-                            <SectionTitle variant="light" heading="ENDMILL AND DRILLS" />
+                            <SectionTitle variant="light" heading="ENDMILL AND DRILL" />
                         </div>
                     </div>
                 </div>

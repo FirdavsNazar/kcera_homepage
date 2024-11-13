@@ -4,7 +4,9 @@ import Widget from "../UI/Widget";
 import List from "../UI/List";
 import LI from "../UI/List/Item";
 import {Link} from "react-router-dom";
-import Logo from '../../assets/img/main2.png'
+import Logo from '../../assets/img/02.png';
+import PageBlog from '../../pages/BlogGridLeftSidebar';
+import BlogDetailsPage from '../../templates/BlogDetails';
 
 function Footer() {
     return (
@@ -19,11 +21,7 @@ function Footer() {
                                 </Link>
 
                                 <Text>
-                                &copy; {new Date().getFullYear()} CKTOOLS. All Rights Reserved.
-                                </Text>
-                                <hr></hr>
-                                <Text>
-                                   CKTOOL WEB DEVELOPER:   <b> NAZAROV FIRDAVS </b>
+                                &copy; {new Date().getFullYear()} CKTOOL. All Rights Reserved.
                                 </Text>
                             </div>
                         </div>
@@ -34,8 +32,11 @@ function Footer() {
                             <List classes="widget-list">
                                 <LI><Link to={`${process.env.PUBLIC_URL + "/home-one"}`}>Our company</Link></LI>
                                 <LI><Link to={`${process.env.PUBLIC_URL + "/about"}`}>About us</Link></LI>
-                                <LI><Link to={`${process.env.PUBLIC_URL + "/team"}`}>Our products</Link></LI>
                                 <LI><Link to={`${process.env.PUBLIC_URL + "/services"}`}>Direction</Link></LI>
+                                <LI><Link to={`${process.env.PUBLIC_URL + "/team"}`}>Products</Link></LI>
+                                <LI><Link to={`${process.env.PUBLIC_URL + "blog-grid-left-sidebar"}`}>Tech News</Link></LI>
+                                <LI><Link to={`${process.env.PUBLIC_URL + "/contact"}`}>Contact</Link></LI>
+                                <LI><a href="https://drive.google.com/file/d/1wS3HxZgPc20GI8zT32Nt9Li0zWpW_0yw/view?usp=drive_link" target="blank" className="tel-no">Catalogue</a></LI>
                             </List>
                         </Widget>
                     </div>
@@ -46,9 +47,9 @@ function Footer() {
                                 <LI> <strong>Email: </strong> </LI>
                                 <LI> cktoolcom@gmail.com </LI>
                                 <LI> <strong>Number: </strong></LI>
-                                <LI> ((+82) 031-605-1115) </LI>
+                                <LI> (+82) 031-605-1115 </LI>
                                 <LI> <strong>Fax: </strong></LI>
-                                <LI> ((+82) 070-8731-1114)</LI>
+                                <LI> (+82) 070-8731-1114</LI>
                             </List>
                         </Widget>
                     </div>

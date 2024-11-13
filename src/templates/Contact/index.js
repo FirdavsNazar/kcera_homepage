@@ -20,7 +20,7 @@ const ContactPage = () => {
                                 <div className="contact-info-con">
                                     <h3>Contact Info</h3>
                                     <ContactInfo
-                                        address="Megadong1011, SKN technopark, Sagimakgol-ro124, Jungwon-gu, Seongnam-si <br/>Gyonggi-do, S.Korea <br/>https://cktoolkor.netlify.app/ <br/>(+82) 31-605-1115"
+                                        address="Megadong 1007-ho, SKN Technopark, Sagimakgol-ro 124, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea <hr> <br/>(+82) 31-605-1115 <br> cktool.co.kr <br/>"
                                     />
                                 </div>
                             </div>

@@ -11,9 +11,10 @@
   },
   {
     "id": 3,
-    "counterNumber": 400000000,
+    "counterNumber": "400.000.000",
     "counterText": "REGISTERED CAPITAL"
   },
+
   {
     "id": 4,
     "counterNumber": 84,

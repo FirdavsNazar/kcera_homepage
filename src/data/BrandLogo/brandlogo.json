@@ -23,5 +23,10 @@
     "id": 1,
     "logoSrc": "brand-logo/OKE.png",
     "URL": "http://www.oke-carbide.com.cn/"
+},
+{
+  "id": 4,
+  "logoSrc": "brand-logo/CKTOOL.png",
+  "URL": "/"
 }
 ]

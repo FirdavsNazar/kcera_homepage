@@ -131,6 +131,7 @@ const Slider = () => {
         }
     }, []);
 
+    
     const settings = {
         arrows: true,
         dots: false,

@@ -86,7 +86,6 @@
 
 // After update/////
 
-
 import React, { useState, useEffect } from 'react';
 import SlickSlider from '../../UI/Slick';
 import SliderData from '../../../data/Slider/home-1';
@@ -124,14 +123,14 @@ const Slider = () => {
             const interval = setInterval(() => {
                 setShowImage1(prev => !prev); // Toggle between the two images
                 setShowImage2(prev => !prev); // Toggle the second image as well
-            }, 5000); // Alternate every 2 seconds
+            }, 7000); // Alternate every 2 seconds
 
             // Cleanup interval on unmount
             return () => clearInterval(interval);
         }
     }, []);
 
-    
+
     const settings = {
         arrows: true,
         dots: false,
@@ -165,7 +164,7 @@ const Slider = () => {
                         {/* Image element 1 - Visible for 2 seconds, and alternates every 2 seconds */}
                         {isMobile && showImage1 && item.bg.endsWith('.mp4') && (
                             <img
-                                src={require('../../../assets/img/slider/ck1.jpg')} // First image
+                                src={require('../../../assets/img/slider/main_mobile1.png')} // First image
                                 alt="Background 1"
                                 className="slider-image"
                                 style={{ width: '100%', height: '100%' }}
@@ -175,11 +174,12 @@ const Slider = () => {
                         {/* Image element 2 - Visible for 2 seconds, and alternates every 2 seconds */}
                         {isMobile && showImage2 && item.bg.endsWith('.mp4') && (
                             <img
-                                src={require('../../../assets/img/slider/main_mobile.png')} // Second image
+                                src={require('../../../assets/img/slider/main_mobile3.png')} // Second image
                                 alt="Background 2"
                                 className="slider-image"
                                 style={{ width: '100%', height: '100%' }}
                             />
+                            
                         )}
 
                         <div className="container">

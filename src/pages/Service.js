@@ -31,13 +31,13 @@ const PageService = () => {
                 heading="CK TOOL"
                 thumb={ServiceThumb}
                 content="<a> <strong>Address: </strong> </a>   
-                               <LI> Megadong 1007-ho, SKN Technopark, Sagimakgol-ro 124, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea </LI>
+                               <LI> Megadong 1007-ho, SKN Technopark, Sagimakgol-ro 124,<br> Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea </LI>
                                 <a> <strong>Email: </strong> </a>
                                 <LI> cktoolcom@gmail.com </LI>
                                 <a> <strong>Number: </strong></a>
-                                <LI> ((+82) 031-605-1115) </LI>
+                                <LI> (+82) 031-605-1115 </LI>
                                 <a> <strong>Fax: </strong></a>
-                                <LI> ((+82) 070-8731-1114)</LI>"
+                                <LI> (+82) 070-8731-1114</LI>"
             />
             
 

@@ -20,7 +20,7 @@ const ContactPage = () => {
                                 <div className="contact-info-con">
                                     <h3>Contact Info</h3>
                                     <ContactInfo
-                                        address="Megadong 1007-ho, SKN Technopark, Sagimakgol-ro 124, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea <hr> <br/>(+82) 31-605-1115 <br> cktool.co.kr <br/>"
+                                        address="Megadong 1007-ho, SKN Technopark, Sagimakgol-ro 124, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea <hr> cktoolcom@gmail.com <br/>(+82) 31-605-1115 <br> cktool.co.kr <br/>"
                                     />
                                 </div>
                             </div>

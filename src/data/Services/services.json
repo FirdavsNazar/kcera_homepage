@@ -9,7 +9,7 @@
       "service/details/ompq/01_ompq_en.png",
       "service/details/ompq/03_ompq_test.png"
     ],
-    "aboutServiceDesc": "<p> Series For General Machining  </p>  <p> 1) Curved flank structure that takes both edge strength and wear resistance into consideration.</p>",
+    "aboutServiceDesc": "<p> 1) Curved flank structure that takes both edge strength and wear resistance into consideration.</p>",
     "features": [
       "The newly upgraded chip breaker not only ensures sufficient chip space, but also improves the strength and rigidity of the peripheral edge. It is suitable for finishing from finishing to roughing, and the tool performance is more comprehensive."
     ]
@@ -17,14 +17,14 @@
   {
     "id": 2,
     "title": "OMPX",
-    "shortDesc": "High performance machining",
+    "shortDesc": "Series For High Performance Machining",
     "thumb": "service/2ompx.png",
     "previewImages": [
       "service/details/ompx/02_ompx_kr.png",
       "service/details/ompx/01_ompx_en.png",
       "service/details/ompx/03_ompx_test.png"
     ],
-    "aboutServiceDesc": "<p>  Series For High Performance Machining </p> <p> <b> Ultra-fine grains: </b>  Excellent wear resistance and extremely high bending strength.</p> <p> <b> ALTiN Coating: </b> More wear-resistant and high-temperature resistant nanocomposite coating.</p>",
+    "aboutServiceDesc": "<p> <b> Ultra-fine grains: </b>  Excellent wear resistance and extremely high bending strength.</p> <p> <b> ALTiN Coating: </b> More wear-resistant and high-temperature resistant nanocomposite coating.</p>",
     "features": [
       "Differential helical angle and pitch design offer high vibration resistance."
     ]
@@ -32,14 +32,14 @@
   {
     "id": 3,
     "title": "OMH",
-    "shortDesc": " Quenched steel machining",
+    "shortDesc": " Series For Quenched Steel Machining",
     "thumb": "service/3omh.png",
     "previewImages": [
       "service/details/omh/02_omh_kr.png",
       "service/details/omh/01_omh_en.png",
       "service/details/omh/02_omh_kr.png"
     ],
-    "aboutServiceDesc": "<p> Series For Quenched Steel Machining </p> <p> 1) The series are suitable for semi finishing and finishing of steel <HRC55 and quenched steel. </p> <p> 2) High rigidity tool structure design, effectively reduces the vibration in the process of tool machining.</p>",
+    "aboutServiceDesc": "<p> 1) The series are suitable for semi finishing and finishing of steel <HRC55 and quenched steel. </p> <p> 2) High rigidity tool structure design, effectively reduces the vibration in the process of tool machining.</p>",
     "features": [
       "High strength, high toughess substrate with new high hard special coating, effectively prolongs the tool life, also  gives better workpiece surface quality."
     ]
@@ -47,14 +47,14 @@
   {
     "id": 4,
     "title": "OMHH",
-    "shortDesc": "High hardened steel machining",
+    "shortDesc": "Series For High Hardened Steel Machining",
     "thumb": "service/5oms.png",
     "previewImages": [
       "service/details/omhh/02_omhh_kr.png",
       "service/details/omhh/01_omhh_en.png",
       "service/details/omhh/03_omhh_test.png"
     ],
-    "aboutServiceDesc": "<p> Series For High Hardened Steel Machining </p> <p> 1) High-rigidity and high-strength cutting edge structure design </p> <p> 2) New ultra fine cemented carbide substrate</p> </p> <p> 3) Fine cutting edge surface treatment</p>",
+    "aboutServiceDesc": "<p> 1) High-rigidity and high-strength cutting edge structure design </p> <p> 2) New ultra fine cemented carbide substrate</p> </p> <p> 3) Fine cutting edge surface treatment</p>",
     "features": [
       "Negative rake angle, which makes the cutting edge strength and cutting force match reasonably, and gives a wider range of applications."
     ]
@@ -62,14 +62,14 @@
   {
     "id": 5,
     "title": "OMS",
-    "shortDesc": " Temperature Alloy",
+    "shortDesc": "Series For High Temperature Alloy",
     "thumb": "service/4omhh.png",
     "previewImages": [
       "service/details/oms/02_oms_kr.png",
       "service/details/oms/01_oms_en.png",
       "service/details/oms/03_oms_test.png"
     ],
-   "aboutServiceDesc": "<p> Series For High Temperature Alloy </p> <p> 1) Variable core thickness groove design, suitable for workpiece of weak rigidity or thin-wall processing. </p> <p> 2) Unique cutting edge design ensures high rigidity and excellent vibration resistance.</p>",
+   "aboutServiceDesc": "<p> 1) Variable core thickness groove design, suitable for workpiece of weak rigidity or thin-wall processing. </p> <p> 2) Unique cutting edge design ensures high rigidity and excellent vibration resistance.</p>",
     "features": [
       "The arc design of the center edge of the ball head blade extends."
     ]
@@ -77,14 +77,14 @@
   {
     "id": 6,
     "title": "OMM",
-    "shortDesc": " Stainless steel machining",
+    "shortDesc": " Series For Stainless Steel Machining",
     "thumb": "service/6omm.png",
     "previewImages": [
       "service/details/omm/02_omm_kr.png",
       "service/details/omm/01_omm_en.png",
       "service/details/omm/03_omm_test.png"
     ],
-    "aboutServiceDesc": "<p> Series For Stainless Steel Machining</p>   <p> 1) The design of unequal spirals and unequal teeth can achieve stable and efficient processing, with a good processing surface and no vibration lines.</p>  <p> 2) The spiral groove adopts U-shaped groove structure design to increase the chip holding space and facilitate chip discharge.  </p> <p> 3) The peripheral edge flank surface has high grinding quality, which avoids adhesive wear and improves the surface quality of the workpiece and tool life.  </p>",
+    "aboutServiceDesc": "<p> 1) The design of unequal spirals and unequal teeth can achieve stable and efficient processing, with a good processing surface and no vibration lines.</p>  <p> 2) The spiral groove adopts U-shaped groove structure design to increase the chip holding space and facilitate chip discharge.  </p> <p> 3) The peripheral edge flank surface has high grinding quality, which avoids adhesive wear and improves the surface quality of the workpiece and tool life.  </p>",
     "features": [
       "Unequal tooth structure to increase vibration resistance",
       "Double GASH structure ensures rigidity while increasing chip space"
@@ -93,14 +93,14 @@
   {
     "id": 7,
     "title": "OMAL",
-    "shortDesc": " Aluminum machining",
+    "shortDesc": "Series For Aluminum Machining",
     "thumb": "service/7 omal.png",
     "previewImages": [
       "service/details/omal/02_omal_kr.png",
       "service/details/omal/01_omal_en.png",
       "service/details/omal/03_omal_test.png"
     ],
-   "aboutServiceDesc": "<p> Series For Aluminum Machining </p>   <p> 1) Sharp cutting edge and edge treatment technology effectively prevent the occurrence of built-up edge. </p>  <p> 2) The unique chip groove shape also shows excellent performance in groove and cavity processing.  </p>",
+   "aboutServiceDesc": "<p> 1) Sharp cutting edge and edge treatment technology effectively prevent the occurrence of built-up edge. </p>  <p> 2) The unique chip groove shape also shows excellent performance in groove and cavity processing.  </p>",
     "features": [
       "The design of ultra-fine grains and the base material with uniform structure make it easier for the tool to achieve excellent edge grinding and processing effects."
     ]
@@ -108,14 +108,14 @@
   {
     "id": 8,
     "title": "ODP",
-    "shortDesc": "High performance machining",
+    "shortDesc": "Drill Series For High Performance General Machining",
     "thumb": "service/8 odp.png",
     "previewImages": [
      "service/details/odb/02_odp_kr.png",
       "service/details/odb/01_odp_en.png",
       "service/details/odb/03_odp_test.png"
     ],
-    "aboutServiceDesc": "<p> Drill Series For High Performance General Machining </p>   <p> 1) New generation of TiSiN composite coating for general purpose drills.</p>  <p> 2) Drill tip cutting edge type : The optimized creacent cutting edge enables good hole accuracy and chip handling.  </p>",
+    "aboutServiceDesc": " <p> 1) New generation of TiSiN composite coating for general purpose drills.</p>  <p> 2) Drill tip cutting edge type : The optimized creacent cutting edge enables good hole accuracy and chip handling.  </p>",
     "features": [
       "Excellent composite coating technology : Unique multilayer coating technology,  it has excellent wear resistance, heat resistance and solubility resistance.",
       "Fluid chip breaker : Adopt new groove shape, reduce cutting resistance and improve drill strength, iron chip processing is excellent, smooth chip removal, strong versatility."

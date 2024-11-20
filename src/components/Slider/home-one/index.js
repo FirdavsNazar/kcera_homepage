@@ -123,7 +123,7 @@ const Slider = () => {
             const interval = setInterval(() => {
                 setShowImage1(prev => !prev); // Toggle between the two images
                 setShowImage2(prev => !prev); // Toggle the second image as well
-            }, 7000); // Alternate every 2 seconds
+            }, 7000); // Alternate every 7 seconds
 
             // Cleanup interval on unmount
             return () => clearInterval(interval);

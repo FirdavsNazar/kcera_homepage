@@ -30,13 +30,13 @@ function Footer() {
                     <div className="col-md-4 col-lg-2 ml-auto">
                         <Widget title="Information">
                             <List classes="widget-list">
-                                <LI><Link to={`${process.env.PUBLIC_URL + "/home-one"}`}>Our company</Link></LI>
-                                <LI><Link to={`${process.env.PUBLIC_URL + "/about"}`}>About us</Link></LI>
-                                <LI><Link to={`${process.env.PUBLIC_URL + "/services"}`}>Direction</Link></LI>
-                                <LI><Link to={`${process.env.PUBLIC_URL + "/team"}`}>Products</Link></LI>
-                                <LI><Link to={`${process.env.PUBLIC_URL + "blog-grid-left-sidebar"}`}>Tech News</Link></LI>
-                                <LI><Link to={`${process.env.PUBLIC_URL + "/contact"}`}>Contact</Link></LI>
-                                <LI><a href="https://drive.google.com/file/d/1wS3HxZgPc20GI8zT32Nt9Li0zWpW_0yw/view?usp=drive_link" target="blank" className="tel-no">Catalogue</a></LI>
+                                <LI><Link to={`${process.env.PUBLIC_URL + "/home-one"}`}>HOME</Link></LI>
+                                <LI><Link to={`${process.env.PUBLIC_URL + "/about"}`}>ABOUT</Link></LI>
+                                <LI><Link to={`${process.env.PUBLIC_URL + "/services"}`}>DIRECTION</Link></LI>
+                                <LI><Link to={`${process.env.PUBLIC_URL + "/team"}`}>PRODUCT</Link></LI>
+                                <LI><Link to={`${process.env.PUBLIC_URL + "blog-grid-left-sidebar"}`}>TECH NEWS</Link></LI>
+                                <LI><Link to={`${process.env.PUBLIC_URL + "/contact"}`}>CONTACT</Link></LI>
+                                <LI><a href="https://drive.google.com/file/d/1wS3HxZgPc20GI8zT32Nt9Li0zWpW_0yw/view?usp=drive_link" target="blank" className="tel-no">CATALOGUE</a></LI>
                             </List>
                         </Widget>
                     </div>

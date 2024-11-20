@@ -9,9 +9,9 @@
       "service/details/ompq/01_ompq_en.png",
       "service/details/ompq/03_ompq_test.png"
     ],
-    "aboutServiceDesc": "<p> 1) Curved flank structure that takes both edge strength and wear resistance into consideration.</p>",
     "features": [
-      "The newly upgraded chip breaker not only ensures sufficient chip space, but also improves the strength and rigidity of the peripheral edge. It is suitable for finishing from finishing to roughing, and the tool performance is more comprehensive."
+      "The newly upgraded chip breaker not only ensures sufficient chip space, but also improves the strength and rigidity of the peripheral edge. It is suitable for finishing from finishing to roughing, and the tool performance is more comprehensive.",
+      "Curved flank structure that takes both edge strength and wear resistance into consideration."
     ]
   },
   {
@@ -24,9 +24,10 @@
       "service/details/ompx/01_ompx_en.png",
       "service/details/ompx/03_ompx_test.png"
     ],
-    "aboutServiceDesc": "<p> <b> Ultra-fine grains: </b>  Excellent wear resistance and extremely high bending strength.</p> <p> <b> ALTiN Coating: </b> More wear-resistant and high-temperature resistant nanocomposite coating.</p>",
     "features": [
-      "Differential helical angle and pitch design offer high vibration resistance."
+      "Differential helical angle and pitch design offer high vibration resistance.",
+      "Ultra-fine grains: Excellent wear resistance and extremely high bending strength.",
+      "ALTiN Coating: More wear-resistant and high-temperature resistant nanocomposite coating."
     ]
   },
   {

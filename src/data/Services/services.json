@@ -41,9 +41,10 @@
       "service/details/omh/01_omh_en.png",
       "service/details/omh/02_omh_kr.png"
     ],
-    "aboutServiceDesc": "<p> 1) The series are suitable for semi finishing and finishing of steel <HRC55 and quenched steel. </p> <p> 2) High rigidity tool structure design, effectively reduces the vibration in the process of tool machining.</p>",
     "features": [
-      "High strength, high toughess substrate with new high hard special coating, effectively prolongs the tool life, also  gives better workpiece surface quality."
+      "High strength, high toughess substrate with new high hard special coating, effectively prolongs the tool life, also  gives better workpiece surface quality.",
+      "The series are suitable for semi finishing and finishing of steel",
+      "The series are suitable for semi finishing and finishing of steel"
     ]
   },
   {
@@ -56,9 +57,10 @@
       "service/details/omhh/01_omhh_en.png",
       "service/details/omhh/03_omhh_test.png"
     ],
-    "aboutServiceDesc": "<p> 1) High-rigidity and high-strength cutting edge structure design </p> <p> 2) New ultra fine cemented carbide substrate</p> </p> <p> 3) Fine cutting edge surface treatment</p>",
     "features": [
-      "Negative rake angle, which makes the cutting edge strength and cutting force match reasonably, and gives a wider range of applications."
+      "Negative rake angle, which makes the cutting edge strength and cutting force match reasonably, and gives a wider range of applications.",
+      "High-rigidity and high-strength cutting edge structure design",
+      "New ultra fine cemented carbide substrate</p> </p> <p> 3) Fine cutting edge surface treatment"
     ]
   },
   {
@@ -71,9 +73,10 @@
       "service/details/oms/01_oms_en.png",
       "service/details/oms/03_oms_test.png"
     ],
-   "aboutServiceDesc": "<p> 1) Variable core thickness groove design, suitable for workpiece of weak rigidity or thin-wall processing. </p> <p> 2) Unique cutting edge design ensures high rigidity and excellent vibration resistance.</p>",
     "features": [
-      "The arc design of the center edge of the ball head blade extends."
+      "The arc design of the center edge of the ball head blade extends.",
+      "Variable core thickness groove design, suitable for workpiece of weak rigidity or thin-wall processing.",
+      "Unique cutting edge design ensures high rigidity and excellent vibration resistance."
     ]
   },
   {
@@ -86,10 +89,11 @@
       "service/details/omm/01_omm_en.png",
       "service/details/omm/03_omm_test.png"
     ],
-    "aboutServiceDesc": "<p> 1) The design of unequal spirals and unequal teeth can achieve stable and efficient processing, with a good processing surface and no vibration lines.</p>  <p> 2) The spiral groove adopts U-shaped groove structure design to increase the chip holding space and facilitate chip discharge.  </p> <p> 3) The peripheral edge flank surface has high grinding quality, which avoids adhesive wear and improves the surface quality of the workpiece and tool life.  </p>",
     "features": [
       "Unequal tooth structure to increase vibration resistance",
-      "Double GASH structure ensures rigidity while increasing chip space"
+      "The design of unequal spirals and unequal teeth can achieve stable and efficient processing, with a good processing surface and no vibration lines.",
+      "The spiral groove adopts U-shaped groove structure design to increase the chip holding space and facilitate chip discharge.",
+      "The peripheral edge flank surface has high grinding quality, which avoids adhesive wear and improves the surface quality of the workpiece and tool life."
     ]
   },
   {
@@ -102,9 +106,10 @@
       "service/details/omal/01_omal_en.png",
       "service/details/omal/03_omal_test.png"
     ],
-   "aboutServiceDesc": "<p> 1) Sharp cutting edge and edge treatment technology effectively prevent the occurrence of built-up edge. </p>  <p> 2) The unique chip groove shape also shows excellent performance in groove and cavity processing.  </p>",
     "features": [
-      "The design of ultra-fine grains and the base material with uniform structure make it easier for the tool to achieve excellent edge grinding and processing effects."
+      "The design of ultra-fine grains and the base material with uniform structure make it easier for the tool to achieve excellent edge grinding and processing effects.",
+      "Sharp cutting edge and edge treatment technology effectively prevent the occurrence of built-up edge.",
+      "The unique chip groove shape also shows excellent performance in groove and cavity processing."
     ]
   },
   {
@@ -117,10 +122,10 @@
       "service/details/odb/01_odp_en.png",
       "service/details/odb/03_odp_test.png"
     ],
-    "aboutServiceDesc": " <p> 1) New generation of TiSiN composite coating for general purpose drills.</p>  <p> 2) Drill tip cutting edge type : The optimized creacent cutting edge enables good hole accuracy and chip handling.  </p>",
     "features": [
       "Excellent composite coating technology : Unique multilayer coating technology,  it has excellent wear resistance, heat resistance and solubility resistance.",
-      "Fluid chip breaker : Adopt new groove shape, reduce cutting resistance and improve drill strength, iron chip processing is excellent, smooth chip removal, strong versatility."
+      "New generation of TiSiN composite coating for general purpose drills.",
+      "Drill tip cutting edge type : The optimized creacent cutting edge enables good hole accuracy and chip handling. "
     ]
   }
   

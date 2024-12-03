@@ -21,7 +21,7 @@ function Footer() {
                                 </Link>
 
                                 <Text>
-                                &copy; {new Date().getFullYear()} CK TOOL. All Rights Reserved.
+                                &copy; {new Date().getFullYear()} CKTOOL. All Rights Reserved.
                                 </Text>
                             </div>
                         </div>

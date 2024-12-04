@@ -83,7 +83,6 @@
 // export default Slider;
 
 
-
 // After update/////
 
 import React, { useState, useEffect } from 'react';

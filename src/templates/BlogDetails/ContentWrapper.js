@@ -20,13 +20,12 @@ const BlogDetailsContentWrapper = ({post,sidebar}) => {
                                         <h5>{post.author.name} <span className="designation">{post.author.designation}</span></h5>
 
                                         <div className="member-social-icons">
-                                            <a href={`https://facebook.com/${post.author.socials.facebook}`} target="_blank" rel='noopener noreferrer'>
-                                                <i className="fa fa-facebook"/>
-                                            </a>
-                                            <a href={`https://twitter.com/${post.author.socials.twitter}`} target="_blank" rel='noopener noreferrer'>
+                                        <a href={`https://www.youtube.com/channel/UCH33OWbEUtKcmlvWeEsaPxg`} target="_blank" rel="noopener noreferrer"><i className="fa fa-youtube" /></a>
+
+                                            <a href={`https://github.com/FirdavsNazar`} target="_blank" rel='noopener noreferrer'>
                                                 <i className="fa fa-twitter"/>
                                             </a>
-                                            <a href={`https://linkedin.com/company/${post.author.socials.linkedin}`} target="_blank" rel='noopener noreferrer'>
+                                            <a href={`https://github.com/FirdavsNazar`} target="_blank" rel='noopener noreferrer'>
                                                 <i className="fa fa-linkedin"/>
                                             </a>
                                         </div>
@@ -46,18 +45,21 @@ const BlogDetailsContentWrapper = ({post,sidebar}) => {
                         <div className="share-article text-center">
                             <h6>Share this article</h6>
                             <div className="member-social-icons justify-content-center">
-                                <a className="facebook" href={`https://www.facebook.com/sharer/sharer.php?u=${window.location.href}`}>
-                                    <i className="fa fa-facebook"/>
+                            <a className="pinterest" href="https://www.youtube.com/channel/UCH33OWbEUtKcmlvWeEsaPxg" 
+                                  target="_blank" 
+                                  rel="noopener noreferrer">
+                                <i className="fa fa-youtube"/>
                                 </a>
+                                {/* <a className="facebook" href={`https://www.youtube.com/channel/UCH33OWbEUtKcmlvWeEsaPxg${window.location.href}`}>
+                                    <i className="fa fa-youtube"/>
+                                </a> */}
                                 <a className="twitter" href={`https://twitter.com/home?status=${window.location.href}`}>
                                     <i className="fa fa-twitter"/>
                                 </a>
                                 <a className="reddit" href={`http://reddit.com/submit?url=${window.location.href}&title=${post.title}`}>
                                     <i className="fa fa-reddit"/>
                                 </a>
-                                <a className="pinterest" href={`https://pinterest.com/pin/create/button/?url=${window.location.href}&media=&description=`}>
-                                    <i className="fa fa-pinterest"/>
-                                </a>
+            
                             </div>
                         </div>
                     </div>

@@ -12,14 +12,14 @@ import Footer from "../components/Footer";
 import LoginRegister from "../components/LoginRegister";
 import MobileMenu from "../components/MobileMenu";
 
-import ServiceThumb from '../assets/img/direction/map.png'
+import ServiceThumb from '../assets/img/direction/map_2.jpg'
 
 const PageService = () => {
     return (
         <Fragment>
             <Header/>
             <PageHeader
-               bgImg={require('../assets/img/direction/direction_main2.png')}
+               bgImg={require('../assets/img/direction/direction_main2_2.jpg')}
                 title={
                     <span style={{ color: 'black' }}>
                       {/* DIRECTION */}

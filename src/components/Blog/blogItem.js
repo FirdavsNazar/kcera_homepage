@@ -20,7 +20,7 @@ function BlogItem(props) {
                     <p>{props.excerpt}</p>
 
                     <div className="blog-meta">
-                        <Link to={`${process.env.PUBLIC_URL + blogURL}`}>By: {props.postBy}</Link>
+                        <Link to={`${process.env.PUBLIC_URL + blogURL}`}> {props.postBy}</Link>
                         <Link to={`${process.env.PUBLIC_URL + blogURL}`}>{props.date}</Link>
                     </div>
                 </div>

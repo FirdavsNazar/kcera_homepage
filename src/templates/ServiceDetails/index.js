@@ -23,7 +23,7 @@ const ServiceDetails = () => {
     return (
         <Fragment>
             <PageHeader
-                bgImg={require('../../assets/img/service/main.png')}
+                bgImg={require('../../assets/img/service/main2.jpg')}
                 title={service.title}
                 content={service.shortDesc}
             />

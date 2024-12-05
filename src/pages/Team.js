@@ -10,14 +10,14 @@ import Footer from "../components/Footer";
 import LoginRegister from "../components/LoginRegister";
 import MobileMenu from "../components/MobileMenu";
 
-import ServiceThumb from '../assets/img/team/endmill.png'
+import ServiceThumb from '../assets/img/team/endmill2.jpg'
 
 const PageTeam = () => {
     return (
         <Fragment>
             <Header/>
             <PageHeader
-                bgImg={require('../assets/img/team/main_pic.png')}
+                bgImg={require('../assets/img/team/main2.jpg')}
                 // title={
                 //     <span style={{ color: 'black' }}>
                 //     PRODUCTS

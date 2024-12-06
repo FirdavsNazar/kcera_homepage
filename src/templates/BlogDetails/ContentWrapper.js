@@ -19,7 +19,7 @@ const BlogDetailsContentWrapper = ({post,sidebar}) => {
                                     <div className="author-txt">
                                         <h5>{post.author.name} <span className="designation">{post.author.designation}</span></h5>
 
-                                        <div className="member-social-icons">
+                                        {/* <div className="member-social-icons">
                                         <a href={`https://www.youtube.com/channel/UCH33OWbEUtKcmlvWeEsaPxg`} target="_blank" rel="noopener noreferrer"><i className="fa fa-youtube" /></a>
 
                                             <a href={`https://github.com/FirdavsNazar`} target="_blank" rel='noopener noreferrer'>
@@ -28,7 +28,7 @@ const BlogDetailsContentWrapper = ({post,sidebar}) => {
                                             <a href={`https://github.com/FirdavsNazar`} target="_blank" rel='noopener noreferrer'>
                                                 <i className="fa fa-linkedin"/>
                                             </a>
-                                        </div>
+                                        </div> */}
                                     </div>
                                 </div>
                             </div>
@@ -53,12 +53,12 @@ const BlogDetailsContentWrapper = ({post,sidebar}) => {
                                 {/* <a className="facebook" href={`https://www.youtube.com/channel/UCH33OWbEUtKcmlvWeEsaPxg${window.location.href}`}>
                                     <i className="fa fa-youtube"/>
                                 </a> */}
-                                <a className="twitter" href={`https://twitter.com/home?status=${window.location.href}`}>
+                                {/* <a className="twitter" href={`https://twitter.com/home?status=${window.location.href}`}>
                                     <i className="fa fa-twitter"/>
                                 </a>
                                 <a className="reddit" href={`http://reddit.com/submit?url=${window.location.href}&title=${post.title}`}>
                                     <i className="fa fa-reddit"/>
-                                </a>
+                                </a> */}
             
                             </div>
                         </div>

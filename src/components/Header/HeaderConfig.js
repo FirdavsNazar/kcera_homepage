@@ -14,6 +14,7 @@ const HeaderConfig = () => {
         const offCanvasMenu = document.querySelector('.off-canvas-menu');
         offCanvasMenu.classList.add('active');
     }
+    
 
     return (
         <div className="header-action mt-lg-3 text-end">

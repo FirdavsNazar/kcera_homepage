@@ -13,6 +13,7 @@ function FunfactItem({ counterNumber, counterText }) {
         }
     };
 
+    
     // Parse the number if it's a string (remove periods)
     const rawNumber = typeof counterNumber === "string"
         ? parseInt(counterNumber.replace(/\./g, ''), 10)  // Remove periods and convert to number

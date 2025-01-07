@@ -8,6 +8,7 @@ import aboutData from '../../../data/About/home-one'
 
 const About = () => {
 
+    
     const [about] = useState(aboutData);
 
     return (

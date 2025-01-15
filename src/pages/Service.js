@@ -38,7 +38,21 @@ const PageService = () => {
                                 <LI> (+82) 031-605-1115 </LI>
                                 <a> <strong>Fax: </strong></a>
                                 <LI> (+82) 070-8731-1114</LI>"
+                                
             />
+            <PageAbout
+                title={'DIRECTION'}
+                heading="CK TOOL - Branch Office"
+                thumb={ServiceThumb}
+                content={`<a><strong>Address:</strong></a>
+                                <LI>New Building, 5678 New Road, Some City, Some State, South Korea</LI>
+                                <a><strong>Email:</strong></a>
+                                <LI>branch@cktool.com</LI>
+                                <a><strong>Number:</strong></a>
+                                <LI>(+82) 032-123-4567</LI>
+                                <a><strong>Fax:</strong></a>
+                                <LI>(+82) 032-123-4568</LI>`}
+/>
             
 
             {/* <Services classes="sm-top"/> */}

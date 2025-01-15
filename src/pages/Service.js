@@ -53,8 +53,6 @@ const PageService = () => {
                                 <a><strong>Fax:</strong></a>
                                 <LI>(+82) 032-123-4568</LI>`}
 />
-            
-
             {/* <Services classes="sm-top"/> */}
             {/* <PricingTable/> */}
             {/* <Testimonial/> */}

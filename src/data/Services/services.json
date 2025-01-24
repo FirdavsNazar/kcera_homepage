@@ -7,7 +7,8 @@
     "previewImages": [
       "service/details/ompq/02_ompq_kr.png",
       "service/details/ompq/01_ompq_en.png",
-      "service/details/ompq/03_ompq_test1_2.jpg"
+      "service/details/ompq/ompq_01.jpg",
+      "service/details/ompq/ompq_02.jpg"
     ],
     "features": [
       "The newly upgraded chip breaker not only ensures sufficient chip space, but also improves the strength and rigidity of the peripheral edge. It is suitable for finishing from finishing to roughing, and the tool performance is more comprehensive.",
@@ -22,8 +23,8 @@
     "previewImages": [
       "service/details/ompx/02_ompx_kr.png",
       "service/details/ompx/01_ompx_en.png",
-      "service/details/ompx/03_ompx_test1_2.jpg",
-      "service/details/ompx/03_ompx_test2_2.jpg"
+      "service/details/ompx/ompx_01.jpg",
+      "service/details/ompx/ompx_02.jpg"
     ],
     "features": [
       "Differential helical angle and pitch design offer high vibration resistance.",
@@ -39,7 +40,8 @@
     "previewImages": [
       "service/details/omh/02_omh_kr.png",
       "service/details/omh/01_omh_en.png",
-      "service/details/omh/02_omh_kr.png"
+      "service/details/omh/omh_01.jpg",
+      "service/details/omh/omh_02.jpg"
     ],
     "features": [
       "High strength, high toughess substrate with new high hard special coating, effectively prolongs the tool life, also  gives better workpiece surface quality.",
@@ -55,8 +57,8 @@
     "previewImages": [
       "service/details/omhh/02_omhh_kr.png",
       "service/details/omhh/01_omhh_en.png",
-      "service/details/omhh/03_omhh_test1_2.jpg",
-      "service/details/omhh/03_omhh_test2_2.jpg"
+      "service/details/omhh/omhh_01.jpg",
+      "service/details/omhh/omhh_02.jpg"
     ],
     "features": [
       "Negative rake angle, which makes the cutting edge strength and cutting force match reasonably, and gives a wider range of applications.",
@@ -73,8 +75,8 @@
     "previewImages": [
       "service/details/oms/02_oms_kr.png",
       "service/details/oms/01_oms_en.png",
-      "service/details/oms/03_oms_test1_2.jpg",
-      "service/details/oms/03_oms_test2_2.jpg"
+      "service/details/oms/oms_01.jpg",
+      "service/details/oms/oms_02.jpg"
     ],
     "features": [
       "The arc design of the center edge of the ball head blade extends.",
@@ -90,8 +92,8 @@
     "previewImages": [
       "service/details/omm/02_omm_kr.png",
       "service/details/omm/01_omm_en.png",
-      "service/details/omm/03_omm_test1_2.jpg",
-      "service/details/omm/03_omm_test2_2.jpg"
+      "service/details/omm/omm_01.jpg",
+      "service/details/omm/omm_02.jpg"
     ],
     "features": [
       "Unequal tooth structure to increase vibration resistance",
@@ -109,8 +111,8 @@
     "previewImages": [
       "service/details/omal/02_omal_kr.png",
       "service/details/omal/01_omal_en.png",
-      "service/details/omal/03_omal_test1_2.jpg",
-      "service/details/omal/03_omal_test2_2.jpg"
+      "service/details/omal/omal_01.jpg",
+      "service/details/omal/omal_02.jpg"
     ],
     "features": [
       "The design of ultra-fine grains and the base material with uniform structure make it easier for the tool to achieve excellent edge grinding and processing effects.",
@@ -126,7 +128,7 @@
     "previewImages": [
      "service/details/odb/02_odp_kr.png",
       "service/details/odb/01_odp_en.png",
-      "service/details/odb/03_odp_test_2.jpg"
+      "service/details/odb/odp_01.jpg"
     ],
     "features": [
       "Excellent composite coating technology : Unique multilayer coating technology,  it has excellent wear resistance, heat resistance and solubility resistance.",

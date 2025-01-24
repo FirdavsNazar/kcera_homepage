@@ -23,6 +23,7 @@ import Error404 from "./pages/Error404";
 import ScrollToTop from "./helpers/ScrollToTop";
 import './i18n'
 
+
 const App = () => {
     return (
         <Router>

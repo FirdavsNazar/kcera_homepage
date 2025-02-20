@@ -21,7 +21,7 @@ function Footer() {
                                 </Link>
 
                                 <Text>
-                                &copy; {new Date().getFullYear()} CKTOOL. All Rights Reserved.
+                                &copy; 2024 CKTOOL. All Rights Reserved.
                                 </Text>
                             </div>
                         </div>

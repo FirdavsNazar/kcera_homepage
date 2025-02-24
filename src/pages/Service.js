@@ -42,16 +42,16 @@ const PageService = () => {
             />
             <PageAbout
                 title={'DIRECTION'}
-                heading="CK TOOL - Branch Office"
+                heading="CK TOOL Busan branch"
                 thumb={ServiceThumb}
                 content={`<a><strong>Address:</strong></a>
-                                <LI>New Building, 5678 New Road, Some City, Some State, South Korea</LI>
+                                <LI>112-ho, 1-dong, Busan Industrial Supplies Distribution Complex, Gweagam-ro 37, Sasang-gu, Busan , South Korea</LI>
                                 <a><strong>Email:</strong></a>
-                                <LI>branch@cktool.com</LI>
+                                <LI>cktoolted@gmail.com</LI>
                                 <a><strong>Number:</strong></a>
-                                <LI>(+82) 032-123-4567</LI>
+                                <LI>(+82) 051-319-0981</LI>
                                 <a><strong>Fax:</strong></a>
-                                <LI>(+82) 032-123-4568</LI>`}
+                                <LI>(+82) 051-319-0983</LI>`}
 />
             {/* <Services classes="sm-top"/> */}
             {/* <PricingTable/> */}

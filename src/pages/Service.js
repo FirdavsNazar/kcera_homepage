@@ -13,6 +13,7 @@ import LoginRegister from "../components/LoginRegister";
 import MobileMenu from "../components/MobileMenu";
 
 import ServiceThumb from '../assets/img/direction/map_2.jpg'
+import ServiceThumb2 from '../assets/img/direction/map_3.jpg'
 
 const PageService = () => {
     return (
@@ -43,7 +44,7 @@ const PageService = () => {
             <PageAbout
                 title={'DIRECTION'}
                 heading="CK TOOL Busan branch"
-                thumb={ServiceThumb}
+                thumb={ServiceThumb2}
                 content={`<a><strong>Address:</strong></a>
                                 <LI>112-ho, 1-dong, Busan Industrial Supplies Distribution Complex, Gweagam-ro 37, Sasang-gu, Busan , South Korea</LI>
                                 <a><strong>Email:</strong></a>

@@ -135,6 +135,22 @@
       "New generation of TiSiN composite coating for general purpose drills.",
       "Drill tip cutting edge type : The optimized creacent cutting edge enables good hole accuracy and chip handling. "
     ]
+  },
+  {
+    "id": 9,
+    "title": "Coming soon",
+    "shortDesc": "Drill Series For High Performance General Machining",
+    "thumb": "service/8 odp.png",
+    "previewImages": [
+     "service/details/odb/02_odp_kr.png",
+      "service/details/odb/01_odp_en.png",
+      "service/details/odb/odp_01.jpg"
+    ],
+    "features": [
+      "Excellent composite coating technology : Unique multilayer coating technology,  it has excellent wear resistance, heat resistance and solubility resistance.",
+      "New generation of TiSiN composite coating for general purpose drills.",
+      "Drill tip cutting edge type : The optimized creacent cutting edge enables good hole accuracy and chip handling. "
+    ]
   }
   
 ]

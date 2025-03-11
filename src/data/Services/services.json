@@ -128,7 +128,8 @@
     "previewImages": [
      "service/details/odb/02_odp_kr.png",
       "service/details/odb/01_odp_en.png",
-      "service/details/odb/odp_01.jpg"
+      "service/details/odb/odp_02.jpg",
+      "service/details/odb/odp_03.jpg"
     ],
     "features": [
       "Excellent composite coating technology : Unique multilayer coating technology,  it has excellent wear resistance, heat resistance and solubility resistance.",
@@ -138,13 +139,11 @@
   },
   {
     "id": 9,
-    "title": "Coming soon",
+    "title": "OMT",
     "shortDesc": "Drill Series For High Performance General Machining",
     "thumb": "service/8 odp.png",
     "previewImages": [
-     "service/details/odb/02_odp_kr.png",
-      "service/details/odb/01_odp_en.png",
-      "service/details/odb/odp_01.jpg"
+      "service/details/omt/omt_01.jpg"
     ],
     "features": [
       "Excellent composite coating technology : Unique multilayer coating technology,  it has excellent wear resistance, heat resistance and solubility resistance.",

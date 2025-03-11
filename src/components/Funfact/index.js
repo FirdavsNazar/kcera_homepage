@@ -1,7 +1,7 @@
 import React from 'react';
 import FunfactItem from "./funfactItem";
 
-import funfactbg from '../../assets/img/fun-fact-bg.jpg'
+import funfactbg from '../../assets/img/fun-fact-bg.png'
 import Funfacts from '../../data/Funfact/funfact'
 
 function Funfact() {

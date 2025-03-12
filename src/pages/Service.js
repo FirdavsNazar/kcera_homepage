@@ -29,7 +29,7 @@ const PageService = () => {
             />
             <PageAbout
                 title={'DIRECTION'}
-                heading="CK TOOL"
+                heading="CK TOOL CK TOOL"
                 thumb={ServiceThumb}
                 content="<a> <strong>Address: </strong> </a>   
                                <LI> Megadong 1007-ho, SKN Technopark, Sagimakgol-ro 124,<br> Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea </LI>

@@ -106,5 +106,23 @@
         "linkedin": "hasthemes"
       }
     }
+  },
+  {
+    "id": 7,
+    "title": "CK Tool Busan Branch",
+    "excerpt": "On February 5th, the opening ceremony of CK Tool Busan Branch was held.",
+    "thumb": "tech_news/07.png",
+    "content": "<p> On February 5th, the opening ceremony of CK Tool Busan Branch was held.</p> <p> https://youtu.be/3jo9Ib9wdUk</p>",
+    "publishDate": "Feb 05, 2025",
+    "author": {
+      "name": "CKTOOL",
+      "designation": "",
+      "proPic": "tech_news/07.png",
+      "socials": {
+        "facebook": "hasthemes",
+        "twitter": "hasthemes",
+        "linkedin": "hasthemes"
+      }
+    }
   }
 ]

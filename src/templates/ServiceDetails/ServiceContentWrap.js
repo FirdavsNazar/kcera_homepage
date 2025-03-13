@@ -32,7 +32,7 @@ const ServiceContentWrap = ({service,totalService,prevService,nextService}) => {
                     <p>{service.shortDesc}</p>
 
                     <div className="about-service mt-50 mt-sm-35">
-                        <h4>About</h4>
+                        <h4></h4>
                         {
                             <div dangerouslySetInnerHTML={{__html: service.aboutServiceDesc}}/>
                         }
@@ -74,14 +74,14 @@ const ServiceContentWrap = ({service,totalService,prevService,nextService}) => {
                                 <a href={`${process.env.PUBLIC_URL + `/service/${prevService.title.split(' ').join('-').toLocaleLowerCase()}?id=${prevService.id}`}`}
                                    className={service.id === 1 ? "disabled" : null}
                                 >
-                                    {/* <i className="fa fa-long-arrow-left"/> Previous */}
+                                    <i className="fa fa-long-arrow-left"/> Previous
                                 </a>
                             </li>
                             <li className="next">
                                 <a href={`${process.env.PUBLIC_URL + `/service/${nextService.title.split(' ').join('-').toLocaleLowerCase()}?id=${nextService.id}`}`}
                                    className={service.id === totalService ? "disabled" : null}
                                 >
-                                    {/* Next <i className="fa fa-long-arrow-right"/> */}
+                                    Next <i className="fa fa-long-arrow-right"/>
                                 </a>
                             </li>
                         </ul>

@@ -45,8 +45,8 @@ class Testimonial extends Component {
                         <div className="col-12 text-center">
                             <SectionTitle
                                 // title="TESTIMONIALS"
-                                heading="Tool Solutions, <br/> For Industry"
-                                tagline="More over <span class='tag-no'>1900+</span><strong>customer</strong>"
+                                heading="Core Values"
+                                // tagline="More over <span class='tag-no'>1900+</span><strong>customer</strong>"
                             />
                         </div>
                     </div>
@@ -78,7 +78,7 @@ class Testimonial extends Component {
                                 <div className="d-none d-lg-block">
                                     <SectionTitle
                                         // title="TESTIMONIALS"
-                                        heading="Tool Solutions, <br/> For Industry"
+                                        heading="Core Values"
                                         // tagline="More over <span class='tag-no'>1900+</span><strong>customer</strong>"
                                     />
                                 </div>

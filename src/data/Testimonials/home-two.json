@@ -1,22 +1,17 @@
 [
   {
     "id": 1,
-    "quote": "Automobile Manufacturing Industry",
-    "authorThumb": "testimonial/01.png"
+    "quote": "Mission - Developing the market with perfect solution based on customer satisfaction",
+    "authorThumb": "testimonial/05.jpg"
   },
   {
     "id": 2,
-    "quote": "Mold Manufacturing Industry ",
-    "authorThumb": "testimonial/02.png"
+    "quote": "Vision - Aggressive pioneer in the market ",
+    "authorThumb": "testimonial/06.jpg"
   },
   {
     "id": 3,
-    "quote": "Rail Transit",
-    "authorThumb": "testimonial/03.png"
-  },
-  {
-    "id": 4,
-    "quote": "Aerospace",
-    "authorThumb": "testimonial/04.png"
+    "quote": "Objectives - .. Million USD in 20 ",
+    "authorThumb": "testimonial/07.jpg"
   }
 ]

@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "title": "OMPQ" ,
-    "shortDesc": "Series For General Machining",
-    "thumb": "service/1ompq.png",
+    "title": "ZEUS" ,
+    "shortDesc": "General machining",
+    "thumb": "service/09_zeus.jpg",
     "previewImages": [
       "service/details/ompq/02_ompq_kr.png",
       "service/details/ompq/01_ompq_en.png",
@@ -17,9 +17,9 @@
   },
   {
     "id": 2,
-    "title": "OMPX",
-    "shortDesc": "Series For High Performance Machining",
-    "thumb": "service/2ompx.png",
+    "title": "ZEUS PRO ",
+    "shortDesc": "High performance machining",
+    "thumb": "service/10_zeuspro.jpg",
     "previewImages": [
       "service/details/ompx/02_ompx_kr.png",
       "service/details/ompx/01_ompx_en.png",
@@ -34,9 +34,9 @@
   },
   {
     "id": 3,
-    "title": "OMH",
-    "shortDesc": " Series For Quenched Steel Machining",
-    "thumb": "service/3omh.png",
+    "title": "HADES",
+    "shortDesc": "Quenched steel machining",
+    "thumb": "service/11_hades.jpg",
     "previewImages": [
       "service/details/omh/02_omh_kr.png",
       "service/details/omh/01_omh_en.png",
@@ -50,9 +50,9 @@
   },
   {
     "id": 4,
-    "title": "OMHH",
-    "shortDesc": "Series For High Hardened Steel Machining",
-    "thumb": "service/5oms.png",
+    "title": "HADES PRO ",
+    "shortDesc": "High hardened steel machining",
+    "thumb": "service/12_hadespro.jpg",
     "previewImages": [
       "service/details/omhh/02_omhh_kr.png",
       "service/details/omhh/01_omhh_en.png",
@@ -72,9 +72,9 @@
   
   {
     "id": 5,
-    "title": "OMS",
-    "shortDesc": "Series For High Temperature Alloy",
-    "thumb": "service/4omhh.png",
+    "title": "EROS ",
+    "shortDesc": "Temperature Alloy",
+    "thumb": "service/13_eros.jpg",
     "previewImages": [
       "service/details/oms/02_oms_kr.png",
       "service/details/oms/01_oms_en.png",
@@ -89,9 +89,9 @@
   },
   {
     "id": 6,
-    "title": "OMM",
-    "shortDesc": " Series For Stainless Steel Machining",
-    "thumb": "service/6omm.png",
+    "title": "APOLLON",
+    "shortDesc": "Stainless steel machining",
+    "thumb": "service/14_apollon.jpg",
     "previewImages": [
       "service/details/omm/02_omm_kr.png",
       "service/details/omm/01_omm_en.png",
@@ -108,9 +108,9 @@
   
   {
     "id": 7,
-    "title": "OMAL",
-    "shortDesc": "Series For Aluminum Machining",
-    "thumb": "service/7 omal.png",
+    "title": "GAIA",
+    "shortDesc": "Aluminum machining",
+    "thumb": "service/15_gaia.jpg",
     "previewImages": [
       "service/details/omal/02_omal_kr.png",
       "service/details/omal/01_omal_en.png",
@@ -125,9 +125,9 @@
   },
   {
     "id": 8,
-    "title": "ODP",
-    "shortDesc": "Drill Series For High Performance General Machining",
-    "thumb": "service/8 odp.png",
+    "title": "DYNAMIC",
+    "shortDesc": "High performance machining",
+    "thumb": "service/16_dynamic.jpg",
     "previewImages": [
      "service/details/odb/02_odp_kr.png",
       "service/details/odb/01_odp_en.png",
@@ -139,20 +139,7 @@
       "New generation of TiSiN composite coating for general purpose drills.",
       "Drill tip cutting edge type : The optimized creacent cutting edge enables good hole accuracy and chip handling. "
     ]
-  },
-  {
-    "id": 9,
-    "title": "OMT",
-    "shortDesc": "Coming soon",
-    "thumb": "service/8 odp.png",
-    "previewImages": [
-      "service/details/omt/omt_01.jpg"
-    ],
-    "features": [
-      "Coming soon"
-    ]
-  }
-  
+  } 
 ]
 
 

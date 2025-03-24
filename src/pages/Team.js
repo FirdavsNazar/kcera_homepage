@@ -26,7 +26,7 @@ const PageTeam = () => {
             />
             <About
                 title={'PRODUCT'}
-                heading="ENDMILL <br/> AND DRILL SERIES"
+                heading="ENDMILL <br/> AND DRILL"
                 thumb={ServiceThumb}
                 // content="<b>CKTOOL</b> always try to provide the best Business Solutions for Clinets to grow up their Business very sharply and smoothly. We voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
             />

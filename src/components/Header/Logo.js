@@ -1,6 +1,6 @@
 import {Link} from "react-router-dom";
 import React, {Component} from 'react';
-import logo from '../../assets/img/main2.png'
+import logo from '../../assets/img/01_top_logo.png'
 
 class Logo extends Component {
     render() {

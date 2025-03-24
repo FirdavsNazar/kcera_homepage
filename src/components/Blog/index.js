@@ -10,7 +10,7 @@ function Blog() {
             <div className="container">
                 <div className="row">
                     <div className="col-12 text-center">
-                        <SectionTitle title="TECH NEWS" heading="What's New in CK TOOL"/>
+                        <SectionTitle title="TECH NEWS" heading="What's New in KCERA"/>
                     </div>
                 </div>
 

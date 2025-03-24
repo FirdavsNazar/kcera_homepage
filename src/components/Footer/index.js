@@ -4,7 +4,7 @@ import Widget from "../UI/Widget";
 import List from "../UI/List";
 import LI from "../UI/List/Item";
 import {Link} from "react-router-dom";
-import Logo from '../../assets/img/02.png';
+import Logo from '../../assets/img/bottom_logo.png';
 import PageBlog from '../../pages/BlogGridLeftSidebar';
 import BlogDetailsPage from '../../templates/BlogDetails';
 
@@ -17,11 +17,11 @@ function Footer() {
                         <div className="widget-item">
                             <div className="about-widget">
                                 <Link to={`${process.env.PUBLIC_URL + "/"}`}>
-                                    <img src={Logo} alt="main2"/>
+                                    <img src={Logo} alt="bottom"/>
                                 </Link>
 
                                 <Text>
-                                &copy; 2024 CKTOOL. All Rights Reserved.
+                                &copy; 2013 CK TOOL all rights reserved. 
                                 </Text>
                             </div>
                         </div>
@@ -45,7 +45,7 @@ function Footer() {
                         <Widget title="Contact">
                             <List classes="widget-list">
                                 <LI> <strong>Email </strong> </LI>
-                                <LI> cktoolcom@gmail.com </LI>
+                                <LI> kceraexport@gmail.com </LI>
                                 <LI> <strong>Number </strong></LI>
                                 <LI> (+82) 031-605-1115 </LI>
                                 <LI> <strong>Fax </strong></LI>
@@ -57,7 +57,7 @@ function Footer() {
                     <div className="col-md-4 col-lg-3">
                         <Widget title="Address">
                             <address>
-                            Megadong 1007-ho, SKN Technopark, Sagimakgol-ro 124, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea <br/> <br/>
+                            Megadong 1011-ho, SKN Technopark, Sagimakgol-ro 124, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea <br/> <br/>
                             </address>
                         </Widget>
                     </div>

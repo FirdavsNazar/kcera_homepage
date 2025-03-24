@@ -1,7 +1,7 @@
 import React from 'react';
 import parse from "html-react-parser";
 import aboutData from "../../../data/About/home-two";
-import aboutThumb from '../../../assets/img/about/about_us1.png'
+import aboutThumb from '../../../assets/img/about/about_us1.jpg'
 import {Link} from "react-router-dom";
 
 const About = () => {
@@ -11,7 +11,7 @@ const About = () => {
                 <div className="row align-items-center">
                     <div className="col-12 d-lg-none">
                         <figure className="about-thumb">
-                            <img src={require('../../../assets/img/' + aboutData.thumb)} alt="CKTOOL"/>
+                            <img src={require('../../../assets/img/' + aboutData.thumb)} alt="KCERA"/>
                         </figure>
                     </div>
 

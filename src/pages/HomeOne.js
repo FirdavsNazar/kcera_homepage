@@ -26,7 +26,7 @@ const HomeOne = () => {
             {/* <Testimonials/> */}
             {/* <Team/> */}
             <Blog/>
-            <BrandLogo/>
+            {/* <BrandLogo/> */}
             <Funfact/>
             {/* <CallToAction/> */}
             <br></br> <br></br>

@@ -30,13 +30,13 @@ const PageService = () => {
                 title={'DIRECTION'}
                 heading="KCERA"
                 thumb={ServiceThumb}
-                content="<a> <strong>Address </strong> </a>   <br/>
+                content="<a> <strong>Address: </strong> </a>   <br/>
                                 <a> Megadong 1011-ho, SKN Technopark, Sagimakgol-ro 124, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea </a> <br/>
-                                <a> <strong>Email </strong> </a> <br/>
+                                <a> <strong>Email: </strong> </a> <br/>
                                 <a> kceraexport@gmail.com </a> <br/>
-                                <a> <strong>Number </strong></a> <br/>
+                                <a> <strong>Number: </strong></a> <br/>
                                 <a> (+82) 070-8731-1115 </a>  <br/>
-                                <a> <strong>Fax </strong></a> <br/>
+                                <a> <strong>Fax: </strong></a> <br/>
                                 <a> (+82) 070-8731-1114</a>"
                                 
             />

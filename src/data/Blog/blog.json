@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "title": "CK Open Ceremony",
-    "excerpt": "On August 23rd, CK Tool held an opening ceremony",
-    "thumb": "tech_news/01-01.png",
-    "content": "<p>On August 23rd, CK Tool held an opening ceremony for a new leap forward with OKE headquarters employees and agency presidents in attendance.</p>",
-    "publishDate": "Aug 24, 2024",
+    "title": "CEMO 2019 ",
+    "excerpt": "KCERA attended EMO 2019 held in Germany as SANGEO.",
+    "thumb": "tech_news/01_EMO.jpg",
+    "content": "<p>KCERA attended EMO 2019 held in Germany as SANGEO.</p>",
+    "publishDate": "Aug 24, 2019",
     "author": {
-      "name": "CKTOOL",
+      "name": "KCERA",
       "designation": "",
-      "proPic": "tech_news/01-01.png",
+      "proPic": "tech_news/01_EMO.jpg",
       "socials": {
         "facebook": "hasthemes",
         "twitter": "hasthemes",
@@ -19,15 +19,15 @@
   },
   {
     "id": 2,
-    "title": "CKTOOL Opening",
-    "excerpt": "The CK Tool opening ceremony held on August 23rd.",
-    "thumb": "tech_news/02_cktool.png",
-    "content": "<p>The CK Tool opening ceremony held on August 23rd. </p> <p> https://youtu.be/35sXxbnMz4I</p>",
-    "publishDate": "Feb 02, 2024",
+    "title": "New KCERA Office Opening",
+    "excerpt": "We would like to inform you that the new KCERA has completed the relocation of its headquarters for a new leap forward.",
+    "thumb": "tech_news/02_kcera.jpg",
+    "content": "<p>We would like to inform you that the new KCERA has completed the relocation of its headquarters for a new leap forward.</p>",
+    "publishDate": "Feb 02, 2020",
     "author": {
-      "name": "CKTOOL",
+      "name": "KCERA",
       "designation": "",
-      "proPic": "tech_news/01-01.png",
+      "proPic": "tech_news/2_kcera.jpg",
       "socials": {
         "facebook": "hasthemes",
         "twitter": "hasthemes",
@@ -37,87 +37,15 @@
   },
   {
     "id": 3,
-    "title": "OKE New Factory Opening Ceremony",
-    "excerpt": "On October 11, OKE headquarters held an opening ceremony ",
-    "thumb": "tech_news/03.png",
-    "content": "<p>On October 11, OKE headquarters held an opening ceremony for the establishment of a new manufacturing plant in China.</p>  <p> https://youtu.be/IJ3yecASAVE</p>",
-    "publishDate": "Feb 03, 2024",
+    "title": "SIMTOS 2024 ",
+    "excerpt": "KCERA attended SIMTOS 2024 held in Korea. ",
+    "thumb": "tech_news/03_simtos.jpg",
+    "content": "<p>KCERA attended SIMTOS 2024 held in Korea.</p>",
+    "publishDate": "April 01, 2024",
     "author": {
-      "name": "CKTOOL",
+      "name": "KCERA",
       "designation": "",
-      "proPic": "tech_news/03.png",
-      "socials": {
-        "facebook": "hasthemes",
-        "twitter": "hasthemes",
-        "linkedin": "hasthemes"
-      }
-    }
-  },
-  {
-    "id": 4,
-    "title": "New Factory",
-    "excerpt": "`A promotional video for the newly established OKE headquarters manufacturing plant`",
-    "thumb": "tech_news/04.png",
-    "content": "<p>A promotional video for the newly established OKE headquarters manufacturing plant.</p> <p> https://youtu.be/2B24h9BKtMc</p>",
-    "publishDate": "Feb 04, 2024",
-    "author": {
-      "name": "CKTOOL",
-      "designation": "",
-      "proPic": "tech_news/04.png",
-      "socials": {
-        "facebook": "hasthemes",
-        "twitter": "hasthemes",
-        "linkedin": "hasthemes"
-      }
-    }
-  },
-  {
-    "id": 5,
-    "title": "OKE in Japan",
-    "excerpt": "OKE headquarters attended JIMTOF 2024 held in Japan.",
-    "thumb": "tech_news/05.png",
-    "content": "<p> OKE headquarters attended JIMTOF 2024 held in Japan.</p> <p> https://youtu.be/8m76jgkaywM</p>",
-    "publishDate": "Feb 05, 2024",
-    "author": {
-      "name": "CKTOOL",
-      "designation": "",
-      "proPic": "tech_news/05.png",
-      "socials": {
-        "facebook": "hasthemes",
-        "twitter": "hasthemes",
-        "linkedin": "hasthemes"
-      }
-    }
-  },
-  {
-    "id": 6,
-    "title": "OKE in Chicago",
-    "excerpt": "OKE headquarters attended IMTS 2024 held in the United States.",
-    "thumb": "tech_news/06.png",
-    "content": "<p> OKE headquarters attended IMTS 2024 held in the United States.</p> <p> https://youtu.be/3jo9Ib9wdUk</p>",
-    "publishDate": "Feb 06, 2024",
-    "author": {
-      "name": "CKTOOL",
-      "designation": "",
-      "proPic": "tech_news/06.png",
-      "socials": {
-        "facebook": "hasthemes",
-        "twitter": "hasthemes",
-        "linkedin": "hasthemes"
-      }
-    }
-  },
-  {
-    "id": 7,
-    "title": "CK Tool Busan Branch",
-    "excerpt": "On February 5th, the opening ceremony of CK Tool Busan Branch was held.",
-    "thumb": "tech_news/07.png",
-    "content": "<p> On February 5th, the opening ceremony of CK Tool Busan Branch was held.</p> <p> https://youtu.be/3jo9Ib9wdUk</p>",
-    "publishDate": "Feb 05, 2025",
-    "author": {
-      "name": "CKTOOL",
-      "designation": "",
-      "proPic": "tech_news/07.png",
+      "proPic": "tech_news/03_simtos.jpg",
       "socials": {
         "facebook": "hasthemes",
         "twitter": "hasthemes",

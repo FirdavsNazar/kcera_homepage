@@ -44,11 +44,11 @@ function Footer() {
                     <div className="col-md-4 col-lg-2 ml-auto">
                         <Widget title="Contact">
                             <List classes="widget-list">
-                                <LI> <strong>Email </strong> </LI>
+                                <LI> <strong>Email: </strong> </LI>
                                 <LI> kceraexport@gmail.com </LI>
-                                <LI> <strong>Number </strong></LI>
+                                <LI> <strong>Number: </strong></LI>
                                 <LI> (+82) 031-605-1115 </LI>
-                                <LI> <strong>Fax </strong></LI>
+                                <LI> <strong>Fax: </strong></LI>
                                 <LI> (+82) 070-8731-1114</LI>
                             </List>
                         </Widget>

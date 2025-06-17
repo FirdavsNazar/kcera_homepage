@@ -8,7 +8,7 @@ const BlogPage = ({sidebar_position,blog_type,sidebar}) => {
     return (
         <Fragment>
             <PageHeader
-               bgImg={require('../../assets/img/tech_news/tech_main2.jpg')}
+               bgImg={require('../../assets/img/tech_news/00_main.jpg')}
                 // title={'From Businex Latest'}
                 // content={'Businex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly.'}
             />

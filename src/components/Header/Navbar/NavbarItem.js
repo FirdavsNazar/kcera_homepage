@@ -57,7 +57,7 @@ function NavbarItem(props) {
             {isMobile && (
                 <li key="catalogue">
                     <a 
-                        href="https://drive.google.com/file/d/1wS3HxZgPc20GI8zT32Nt9Li0zWpW_0yw/view?usp=drive_link" 
+                        href="https://drive.google.com/file/d/1YbA7Qhp6q8vVX5EZqce_WOrtZ274cQoh/view?usp=sharing" 
                         target="_blank" 
                         rel="noopener noreferrer" 
                         className="tel-no"

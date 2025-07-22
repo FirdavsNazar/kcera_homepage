@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "CEMO 2019 ",
+    "title": "EMO 2019 ",
     "excerpt": "KCERA attended EMO 2019 held in Germany as SANGEO.",
     "thumb": "tech_news/01_EMO.jpg",
     "content": "<p>KCERA attended EMO 2019 held in Germany as SANGEO.</p>",
@@ -38,7 +38,7 @@
   {
     "id": 3,
     "title": "SIMTOS 2024 ",
-    "excerpt": "KCERA attended SIMTOS 2024 held in Korea. ",
+    "excerpt": "KCERA attended SIMTOS 2024 held in Korea.",
     "thumb": "tech_news/03_simtos.jpg",
     "content": "<p>KCERA attended SIMTOS 2024 held in Korea.</p>",
     "publishDate": "April 01, 2024",

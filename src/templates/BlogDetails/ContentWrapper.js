@@ -12,14 +12,14 @@ const BlogDetailsContentWrapper = ({post,sidebar}) => {
                     {
                         !sidebar ? (
                             <div className="col-md-3 col-lg-2 order-1 order-md-0">
-                                <div className="author-info mt-sm-40">
+                                {/* <div className="author-info mt-sm-40">
                                     <div className="author-thumb">
                                         <img src={require('../../assets/img/' + post.author.proPic)} alt={post.author.name} />
                                     </div>
                                     <div className="author-txt">
                                         <h5>{post.author.name} <span className="designation">{post.author.designation}</span></h5>
 
-                                        {/* <div className="member-social-icons">
+                                        <div className="member-social-icons">
                                         <a href={`https://www.youtube.com/channel/UCH33OWbEUtKcmlvWeEsaPxg`} target="_blank" rel="noopener noreferrer"><i className="fa fa-youtube" /></a>
 
                                             <a href={`https://github.com/FirdavsNazar`} target="_blank" rel='noopener noreferrer'>
@@ -28,22 +28,22 @@ const BlogDetailsContentWrapper = ({post,sidebar}) => {
                                             <a href={`https://github.com/FirdavsNazar`} target="_blank" rel='noopener noreferrer'>
                                                 <i className="fa fa-linkedin"/>
                                             </a>
-                                        </div> */}
+                                        </div>
                                     </div>
-                                </div>
+                                </div> */}
                             </div>
                         ):null
                     }
 
                     <div className={`m-auto order-0 ${!sidebar ? 'col-md-9 col-lg-8': 'col-12'}`}>
-                        <div className="blog-post-txt">
-                            <h2 className="h3">{post.title}</h2>
+                       <div className="blog-post-txt">
+                        <h2 className="h3" style={{ textAlign: 'center' }}>{post.title}</h2>
 
                             <div dangerouslySetInnerHTML={{__html: post.content}} />
                         </div>
 
                         <div className="share-article text-center">
-                            <h6>Share this article</h6>
+                            <h6>CHeck Media</h6>
                             <div className="member-social-icons justify-content-center">
                             <a className="pinterest" href="https://www.youtube.com/channel/UCH33OWbEUtKcmlvWeEsaPxg" 
                                   target="_blank" 

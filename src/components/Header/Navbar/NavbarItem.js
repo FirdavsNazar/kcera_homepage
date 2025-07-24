@@ -62,7 +62,7 @@ function NavbarItem(props) {
                         rel="noopener noreferrer" 
                         className="tel-no"
                     >
-                        Catalogue
+                        Catalogue 
                     </a>
                 </li>
             )}

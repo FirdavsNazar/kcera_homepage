@@ -14,7 +14,7 @@ import BannerImg from "../../assets/img/banner-poster.jpg";
 const SidebarForBlog = ({classes}) => {
     return (
         <Sidebar classes={`col-lg-3 ${classes}`}>
-            <SidebarItem title={'CATEGORIES'} classes={'single-sidebar-item-wrap'}>
+            {/* <SidebarItem title={'CATEGORIES'} classes={'single-sidebar-item-wrap'}>
                 <List classes={'sidebar-list'}>
                     {
                         Categories.categories.map(category=>(
@@ -22,7 +22,7 @@ const SidebarForBlog = ({classes}) => {
                         ))
                     }
                 </List>
-            </SidebarItem>
+            </SidebarItem> */}
 
             <SidebarItem title={'FEATURED POSTS'} classes={'single-sidebar-item-wrap'}>
                 <div className={'latest-blog-widget'}>

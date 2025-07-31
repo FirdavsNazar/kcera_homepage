@@ -43,7 +43,7 @@ const BlogDetailsContentWrapper = ({post,sidebar}) => {
                         </div>
 
                         <div className="share-article text-center">
-                            <h6>CHeck Media</h6>
+                            <h6>Check Media</h6>
                             <div className="member-social-icons justify-content-center">
                             <a className="pinterest" href="https://www.youtube.com/channel/UCH33OWbEUtKcmlvWeEsaPxg" 
                                   target="_blank" 

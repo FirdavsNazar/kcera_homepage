@@ -31,11 +31,11 @@ const PageService = () => {
                     title="1. DIRECTION"
                     heading="KCERA"
                     content={`<div>
-                        <p><strong>Address:</strong></p>
+                        <p><strong>Address </strong></p>
                         <p>Megadong 1011-ho, SKN Technopark, Sagimakgol-ro 124, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea</p>
-                        <p><strong>Email:</strong></p>
+                        <p><strong>Email </strong></p>
                         <p>kceraexport@gmail.com</p>
-                        <p><strong>Number:</strong></p>
+                        <p><strong>Tel </strong></p>
                         <p>(+82) 070-8731-1115</p>
                         <p><strong>Fax:</strong></p>
                         <p>(+82) 070-8731-1114</p>
@@ -47,13 +47,13 @@ const PageService = () => {
                     title="2. DIRECTION"
                     heading="CK TOOL Busan branch"
                     content={`<div>
-                        <p><strong>Address:</strong></p>
+                        <p><strong>Address </strong></p>
                         <p>112-ho, 1-dong, Busan Industrial Supplies Distribution Complex, Gweagam-ro 37, Sasang-gu, Busan, South Korea</p>
-                        <p><strong>Email:</strong></p>
+                        <p><strong>Email </strong></p>
                         <p>cktoolted@gmail.com</p>
-                        <p><strong>Number:</strong></p>
+                        <p><strong>Tel </strong></p>
                         <p>(+82) 051-319-0981</p>
-                        <p><strong>Fax:</strong></p>
+                        <p><strong>Fax </strong></p>
                         <p>(+82) 051-319-0983</p>
                     </div>`}
                     mapLink="https://www.google.com/maps?q=Busan%20Industrial%20Supplies%20Distribution%20Complex,%20Gweagam-ro%2037,%20Sasang-gu,%20Busan,%20South%20Korea&output=embed"
@@ -63,9 +63,9 @@ const PageService = () => {
                     title="3. DIRECTION"
                     heading="TİGER KESİCİ TAKIMLAR SANAYİ VE TİCARET LİMİTED ŞİRKETİ"
                     content={`<div>
-                        <p><strong>Address:</strong></p>
+                        <p><strong>Address </strong></p>
                         <p>Evka 3 Mh. 129/18 sk. NO:11/A Bornova Izmir (postal code: 35050)</p>
-                        <p><strong>Number:</strong></p>
+                        <p><strong>Number </strong></p>
                         <p>+905336862947</p>
                     </div>`}
                     mapLink="https://www.google.com/maps?q=Evka%203%20Mh.%20129/18%20sk.%20NO:11/A%20Bornova%20Izmir%2035050&output=embed"

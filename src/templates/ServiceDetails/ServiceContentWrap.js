@@ -30,6 +30,17 @@ const ServiceContentWrap = ({service,totalService,prevService,nextService}) => {
                 <div className="service-details-info">
                     <h3>{service.title}</h3>
                     <p>{service.shortDesc}</p>
+                    {service.catalogueLink && (
+                            <a
+                                href={service.catalogueLink}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                style={{ display: 'inline-block', marginTop: '10px', textDecoration: 'none', color: '#d32f2f' }}
+                            >  
+                                <i className="fas fa-file-pdf" style={{ marginRight: '6px' }}></i>
+                                View Catalogue
+                            </a>
+                     )}
 
                     <div className="about-service mt-50 mt-sm-35">
                         <h4></h4>

@@ -30,7 +30,7 @@
 import React from 'react';
 import Content from "../../UI/Content";
 
-const About = ({ title, heading, content, mapLink }) => {
+const About = ({ title, heading, content, mapLink, imageSrc }) => {
     return (
         <div className="page-about-wrapper sm-top">
             <div className="container">
@@ -45,15 +45,23 @@ const About = ({ title, heading, content, mapLink }) => {
 
                     <div className="col-md-6 col-lg-5 order-0 order-md-1">
                         <div className="about-thumb">
-                            <iframe
-                                src={mapLink}
-                                width="100%"
-                                height="300"
-                                style={{ border: 0 }}
-                                allowFullScreen=""
-                                loading="lazy"
-                                referrerPolicy="no-referrer-when-downgrade"
-                            />
+                            {mapLink ? (
+                                <iframe
+                                    src={mapLink}
+                                    width="100%"
+                                    height="300"
+                                    style={{ border: 0 }}
+                                    allowFullScreen=""
+                                    loading="lazy"
+                                    referrerPolicy="no-referrer-when-downgrade"
+                                />
+                            ) : imageSrc ? (
+                                <img
+                                    src={imageSrc}
+                                    alt="About"
+                                    style={{ width: '100%', height: 'auto' }}
+                                />
+                            ) : null}
                         </div>
                     </div>
                 </div>

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "TURNING" ,
-    "catalogueLink": "TURNING" ,
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/1.TURNING.pdf",
     "shortDesc": "Series For General Machining",
     "thumb": "service/01_turning.jpg",
     "previewImages": [
@@ -18,6 +18,7 @@
   {
     "id": 2,
     "title": "THREADING",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/2.THREADING.pdf",
     "shortDesc": "Series For High Performance Machining",
     "thumb": "service/02_threading.jpg",
     "previewImages": [
@@ -33,6 +34,7 @@
   {
     "id": 3,
     "title": "GROOVING & PARTING",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/3.GROOVING&PARTING.pdf",
     "shortDesc": "Series For Quenched Steel Machining",
     "thumb": "service/03_grooving.jpg",
     "previewImages": [
@@ -48,6 +50,7 @@
   {
     "id": 4,
     "title": "SWISS TOOL",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/4.SWISS TOOL.pdf",
     "shortDesc": "Series For High Hardened Steel Machining",
     "thumb": "service/04_swiss.jpg",
     "previewImages": [
@@ -64,6 +67,7 @@
   {
     "id": 5,
     "title": "MILLING",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/5.MILLING.pdf",
     "shortDesc": "Series For High Temperature Alloy",
     "thumb": "service/05_milling.jpg",
     "previewImages": [
@@ -79,6 +83,7 @@
   {
     "id": 6,
     "title": "DRILLING",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/6.DRILLING.pdf",
     "shortDesc": "Series For Stainless Steel Machining",
     "thumb": "service/06_indexable.jpg",
     "previewImages": [
@@ -95,6 +100,7 @@
   {
     "id": 7,
     "title": "PCBN & PCD",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/7.PCBN PCD.pdf",
     "shortDesc": "Series For Aluminum Machining",
     "thumb": "service/07_PCBN.jpg",
     "previewImages": [
@@ -110,6 +116,7 @@
   {
     "id": 8,
     "title": "CERAMIC",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/8.CERAMIC.pdf",
     "shortDesc": "Drill Series For High Performance General Machining",
     "thumb": "service/08_ceramic.jpg",
     "previewImages": [
@@ -125,6 +132,7 @@
   {
     "id": 9,
     "title": "SOLID END MILL",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/9.SOLID ENDMILL.pdf",
     "shortDesc": "Drill Series For High Performance General Machining",
     "thumb": "service/09_solidendmill.jpg",
     "previewImages": [
@@ -140,6 +148,7 @@
   {
     "id": 10,
     "title": "SOLID DRILL",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/10.SOLID DRILL.pdf",
     "shortDesc": "Drill Series For High Performance General Machining",
     "thumb": "service/10_soliddrill.jpg",
     "previewImages": [

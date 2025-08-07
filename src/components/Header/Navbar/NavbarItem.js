@@ -57,12 +57,12 @@ function NavbarItem(props) {
             {isMobile && (
                 <li key="catalogue">
                     <a 
-                        href="https://drive.google.com/file/d/1YbA7Qhp6q8vVX5EZqce_WOrtZ274cQoh/view?usp=sharing" 
+                        href="https://kcera.kr/main_catalogue.pdf" 
                         target="_blank" 
                         rel="noopener noreferrer" 
                         className="tel-no"
                     >
-                        Catalogue 
+                        Catalogue
                     </a>
                 </li>
             )}

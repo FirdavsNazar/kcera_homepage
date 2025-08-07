@@ -36,9 +36,9 @@ const PageService = () => {
                         <p><strong>Email </strong></p>
                         <p>kceraexport@gmail.com</p>
                         <p><strong>Tel </strong></p>
-                        <p>(+82) 070-8731-1115</p>
+                        <p>(+82)70-8731-1115</p>
                         <p><strong>Fax:</strong></p>
-                        <p>(+82) 070-8731-1114</p>
+                        <p>(+82)70-8731-1114</p>
                     </div>`}
                     mapLink="https://www.google.com/maps?q=Megadong%201011-ho,%20SKN%20Technopark,%20Sagimakgol-ro%20124,%20Jungwon-gu,%20Seongnam-si,%20Gyeonggi-do,%20South%20Korea&output=embed"
                 />
@@ -52,19 +52,19 @@ const PageService = () => {
                         <p><strong>Email </strong></p>
                         <p>cktoolted@gmail.com</p>
                         <p><strong>Tel </strong></p>
-                        <p>(+82) 051-319-0981</p>
+                        <p>(+82)51-319-0981</p>
                         <p><strong>Fax </strong></p>
-                        <p>(+82) 051-319-0983</p>
+                        <p>(+82)51-319-0983</p>
                     </div>`}
                     mapLink="https://www.google.com/maps?q=Busan%20Industrial%20Supplies%20Distribution%20Complex,%20Gweagam-ro%2037,%20Sasang-gu,%20Busan,%20South%20Korea&output=embed"
                 />
                 
                 <PageAbout
                     title="3. DIRECTION"
-                    heading="TİGER KESİCİ TAKIMLAR SANAYİ VE TİCARET LİMİTED ŞİRKETİ"
+                    heading="KCERA Turkey subsidiary"
                     content={`<div>
                         <p><strong>Address </strong></p>
-                        <p>Evka 3 Mh. 129/18 sk. NO:11/A Bornova Izmir (postal code: 35050)</p>
+                        <p>TİGER KESİCİ TAKIMLAR SANAYİ VE TİCARET LİMİTED ŞİRKETİ</p>
                         <p><strong>Number </strong></p>
                         <p>+905336862947</p>
                     </div>`}

@@ -47,9 +47,9 @@ function Footer() {
                                 <LI> <strong>Email </strong> </LI>
                                 <LI> kceraexport@gmail.com </LI>
                                 <LI> <strong>Tel </strong></LI>
-                                <LI> (+82) 070-8731-1115 </LI>
+                                <LI> (+82) 70-8731-1115 </LI>
                                 <LI> <strong>Fax </strong></LI>
-                                <LI> (+82) 070-8731-1114</LI>
+                                <LI> (+82) 70-8731-1114</LI>
                             </List>
                         </Widget>
                     </div>

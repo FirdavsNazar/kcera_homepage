@@ -21,7 +21,7 @@ function Footer() {
                                 </Link>
 
                                 <Text>
-                                &copy; 2013 KCERA all rights reserved. 
+                                &copy; 2025 KCERA all rights reserved. 
                                 </Text>
                             </div>
                         </div>

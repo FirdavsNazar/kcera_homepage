@@ -36,7 +36,7 @@ function Footer() {
                                 <LI><Link to={`${process.env.PUBLIC_URL + "/team"}`}>PRODUCT</Link></LI>
                                 <LI><Link to={`${process.env.PUBLIC_URL + "blog-grid-left-sidebar"}`}>TECH NEWS</Link></LI>
                                 <LI><Link to={`${process.env.PUBLIC_URL + "/contact"}`}>CONTACT</Link></LI>
-                                <LI><a href="https://drive.google.com/file/d/1wS3HxZgPc20GI8zT32Nt9Li0zWpW_0yw/view?usp=drive_link" target="blank" className="tel-no">CATALOGUE</a></LI>
+                                <LI><a href="https://kcera.kr/main_catalogue.pdf" target="blank" className="tel-no">CATALOGUE</a></LI>
                             </List>
                         </Widget>
                     </div>
@@ -47,9 +47,9 @@ function Footer() {
                                 <LI> <strong>Email </strong> </LI>
                                 <LI> kceraexport@gmail.com </LI>
                                 <LI> <strong>Tel </strong></LI>
-                                <LI> (+82) 70-8731-1115 </LI>
+                                <LI> (+82)70-8731-1115 </LI>
                                 <LI> <strong>Fax </strong></LI>
-                                <LI> (+82) 70-8731-1114</LI>
+                                <LI> (+82)70-8731-1114</LI>
                             </List>
                         </Widget>
                     </div>

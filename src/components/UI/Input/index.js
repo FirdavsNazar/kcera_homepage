@@ -10,7 +10,7 @@ const FormInput = ({tag,type,name,placeholder,classes}) => {
                     }else if(tag === 'textarea'){
                         return  <textarea name={name} cols="30" rows="7" placeholder={placeholder} className={classes} required/>
                     }else if(tag === 'button'){
-                        // return <button className={`btn-outline ${classes}`}>Send Message</button>
+                        return <button className={`btn-outline ${classes}`}>Send Message</button>
                     }
                 })()}
             </label>

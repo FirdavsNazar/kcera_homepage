@@ -61,10 +61,11 @@ const PageService = () => {
                 
                 <PageAbout
                     title="3. DIRECTION"
-                    heading="KCERA Turkey subsidiary"
+                    heading="KCERA TURKEY SUBSIDIARY <br/>
+                    (TİGER KESİCİ TAKIMLAR SANAYİ VE TİCARET LİMİTED ŞİRKETİ)"
                     content={`<div>
                         <p><strong>Address </strong></p>
-                        <p>TİGER KESİCİ TAKIMLAR SANAYİ VE TİCARET LİMİTED ŞİRKETİ</p>
+                        <p>Evka 3 Mh., 129/18. Sk. 11E D:a, 35050 Bornova/İzmir</p>
                         <p><strong>Number </strong></p>
                         <p>+905336862947</p>
                     </div>`}

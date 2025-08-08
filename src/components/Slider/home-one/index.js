@@ -163,7 +163,7 @@ const Slider = () => {
                         {/* Image element 1 - Visible for 2 seconds, and alternates every 2 seconds */}
                         {isMobile && showImage1 && item.bg.endsWith('.mp4') && (
                             <img
-                                src={require('../../../assets/img/slider/main_mobile1.png')} // First image
+                                src={require('../../../assets/img/slider/main_mobile3.png')} // First image
                                 alt="Background 1"
                                 className="slider-image"
                                 style={{ width: '100%', height: '100%' }}

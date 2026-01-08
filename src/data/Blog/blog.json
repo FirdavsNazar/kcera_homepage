@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "EMO 2019 ",
+    "excerpt": "KCERA attended EMO 2019 held in Germany.",
+    "thumb": "tech_news/01_EMO.jpg",
+    "content": "<p>KCERA attended EMO 2019 held in Germany as SANGEO.</p>",
+    "publishDate": "2019.08.24",
+    "author": {
+      "name": "KCERA",
+      "designation": "",
+      "proPic": "tech_news/01_EMO.jpg",
+      "socials": {
+        "facebook": "hasthemes",
+        "twitter": "hasthemes",
+        "linkedin": "hasthemes"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "title": "New KCERA Office Opening",
+    "excerpt": "We would like to inform you that the new KCERA has completed the relocation of its headquarters for a new leap forward.",
+    "thumb": "tech_news/02_kcera.jpg",
+    "content": "<p>We would like to inform you that the new KCERA has completed the relocation of its headquarters for a new leap forward.</p>",
+    "publishDate": "2020.02.02",
+    "author": {
+      "name": "KCERA",
+      "designation": "",
+      "proPic": "tech_news/2_kcera.jpg",
+      "socials": {
+        "facebook": "hasthemes",
+        "twitter": "hasthemes",
+        "linkedin": "hasthemes"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "title": "SIMTOS 2024 ",
+    "excerpt": "KCERA attended SIMTOS 2024 held in Korea.",
+    "thumb": "tech_news/03_simtos.jpg",
+    "content": "<p>KCERA attended SIMTOS 2024 held in Korea.</p>",
+    "publishDate": "2024.04.01",
+    "author": {
+      "name": "KCERA",
+      "designation": "",
+      "proPic": "tech_news/03_simtos.jpg",
+      "socials": {
+        "facebook": "hasthemes",
+        "twitter": "hasthemes",
+        "linkedin": "hasthemes"
+      }
+    }
+  }
+]

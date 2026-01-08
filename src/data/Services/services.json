@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "title": "TURNING" ,
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/1.TURNING.pdf",
+    "thumb": "service/01_turning.jpg",
+    "previewImages": [
+      "service/details/1/02_turning.jpg",
+      "service/details/1/03_turning.jpg",
+      "service/details/1/04_turning.jpg",
+      "service/details/1/05_turning.jpg"
+    ],
+    "features": [
+     
+    ]
+  },
+  {
+    "id": 2,
+    "title": "THREADING",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/2.THREADING.pdf",
+    "thumb": "service/02_threading.jpg",
+    "previewImages": [
+      "service/details/2/02_2_threading.jpg",
+      "service/details/2/03_threading.jpg",
+      "service/details/2/04_threading.jpg",
+      "service/details/2/05_threading.jpg"
+    ],
+    "features": [
+      
+    ]
+  },
+  {
+    "id": 3,
+    "title": "GROOVING & PARTING",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/3.GROOVING&PARTING.pdf",
+    "thumb": "service/03_grooving.jpg",
+    "previewImages": [
+      "service/details/3/02_grooving.jpg",
+      "service/details/3/03_3_grooving.jpg",
+      "service/details/3/04_grooving.jpg",
+      "service/details/3/05_grooving.jpg"
+    ],
+    "features": [
+    
+    ]
+  },
+  {
+    "id": 4,
+    "title": "SWISS TOOL",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/4.SWISS TOOL.pdf",
+    "thumb": "service/04_swiss.jpg",
+    "previewImages": [
+      "service/details/4/02_swiss.jpg",
+      "service/details/4/03_swiss.jpg",
+      "service/details/4/04_4_swiss.jpg",
+      "service/details/4/05_swiss.jpg"
+    ],
+    "features": [
+      
+    ]
+  },
+  
+  {
+    "id": 5,
+    "title": "MILLING",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/5.MILLING.pdf",
+    "thumb": "service/05_milling.jpg",
+    "previewImages": [
+      "service/details/5/02_milling.jpg",
+      "service/details/5/03_milling.jpg",
+      "service/details/5/04_milling.jpg",
+      "service/details/5/05_5_milling.jpg"
+    ],
+    "features": [
+    
+    ]
+  },
+  {
+    "id": 6,
+    "title": "DRILLING",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/6.DRILLING.pdf",
+    "thumb": "service/06_indexable.jpg",
+    "previewImages": [
+      "service/details/6/02_indexable.jpg",
+      "service/details/6/03_indexable.jpg",
+      "service/details/6/04_indexable.jpg",
+      "service/details/6/05_indexable.jpg"
+    ],
+    "features": [
+    
+    ]
+  },
+  
+  {
+    "id": 7,
+    "title": "PCBN & PCD",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/7.PCBN PCD.pdf",
+    "thumb": "service/07_PCBN.jpg",
+    "previewImages": [
+      "service/details/7/02_PCBN.jpg",
+      "service/details/7/03_PCBN.jpg",
+      "service/details/7/04_PCBN.jpg",
+      "service/details/7/05_PCBN.jpg"
+    ],
+    "features": [
+    
+    ]
+  },
+  {
+    "id": 8,
+    "title": "CERAMIC",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/8.CERAMIC.pdf",
+    "thumb": "service/08_ceramic.jpg",
+    "previewImages": [
+      "service/details/8/02_ceramic.jpg",
+      "service/details/8/03_ceramic.jpg",
+      "service/details/8/04_ceramic.jpg",
+      "service/details/8/05_ceramic.jpg"
+    ],
+    "features": [
+     
+    ]
+  } ,
+  {
+    "id": 9,
+    "title": "SOLID ENDMILL",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/9.SOLID ENDMILL.pdf",
+    "thumb": "service/09_solidendmill.jpg",
+    "previewImages": [
+      "service/details/9/02_solidendmill.jpg",
+      "service/details/9/03_solidendmill.jpg",
+      "service/details/9/04_solidendmill.jpg",
+      "service/details/9/05_solidendmill.jpg"
+    ],
+    "features": [
+     
+    ]
+  } ,
+  {
+    "id": 10,
+    "title": "SOLID DRILL",
+    "catalogueLink": "https://kcera.kr/CATALOGUEpdf/10.SOLID DRILL.pdf",
+    "thumb": "service/10_soliddrill.jpg",
+    "previewImages": [
+      "service/details/10/02_soliddrill.jpg",
+      "service/details/10/03_soliddrill.jpg",
+      "service/details/10/04_soliddrill.jpg",
+      "service/details/10/05_soliddrill.jpg"
+    ],
+    "features": [
+     
+    ]
+  } 
+]
+
+
+

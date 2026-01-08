@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "quote": "Automobile Manufacturing Industry",
+    "authorThumb": "testimonial/client-01.jpg"
+  },
+  {
+    "id": 2,
+    "quote": "Automobile Manufacturing Industry",
+   
+    "authorThumb": "testimonial/client-02.jpg"
+  },
+  {
+    "id": 3,
+    "quote": "Automobile Manufacturing Industry",
+   
+    "authorThumb": "testimonial/client-03.jpg"
+  }
+]

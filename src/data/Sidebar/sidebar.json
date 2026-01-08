@@ -1,0 +1,14 @@
+{
+  "categories" : [
+    {
+      "id": 1,
+      "cate_name": "CK TOOL News",
+      "cate_link": "/blog-grid-left-sidebar"
+    },
+    {
+      "id": 2,
+      "cate_name": "New Products",
+      "cate_link": "/team"
+    }
+  ]
+}

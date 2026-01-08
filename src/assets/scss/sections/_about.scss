@@ -1,0 +1,186 @@
+/*==========================
+08. About Style CSS
+==========================*/
+
+.about-content {
+  @media #{$xl-device} {
+    margin-left: 55px;
+    padding-right: 80px;
+  }
+
+  h6 {
+    margin-bottom: 13px;
+  }
+
+  .about-since {
+    color: #484848;
+    display: inline-block;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 1;
+    position: relative;
+    padding-right: 20px;
+    margin-bottom: 30px;
+
+    @media #{$sm-device} {
+      margin-bottom: 20px;
+    }
+
+    &:after {
+      background-color: #b4b4b4;
+      content: '';
+      position: absolute;
+      left: 100%;
+      top: 50%;
+      transform: translateY(-50%);
+      height: 2px;
+      width: 110px;
+    }
+  }
+
+  .btn-about {
+    color: $paragraph;
+    font-size: 16px;
+    font-weight: 500;
+    display: inline-block;
+    margin-top: 15px;
+
+    @media #{$sm-device} {
+      margin-top: 5px;
+    }
+
+    i {
+      font-size: 20px;
+      line-height: 3px;
+      vertical-align: middle;
+      transition: 0.3s;
+    }
+
+    &:hover {
+      i {
+        padding-left: 5px;
+      }
+    }
+  }
+
+  &--2{
+    @media #{$xl-device} {
+      margin-left: 0;
+      padding-right: 40px;
+    }
+  }
+}
+
+// .about-thumb {
+//   overflow: hidden;
+
+//   // For small devices (already present)
+//   @media #{$sm-device} {
+//     margin-bottom: 35px;
+//   }
+
+//   // For all images within the container
+//   img {
+//     width: 100%;
+//     height: auto; // Ensures aspect ratio is maintained
+//     object-fit: cover; // Ensures the image covers the container without distortion
+//     transition: 0.4s;
+//   }
+
+//   // Specific adjustment for larger screens (if needed)
+//   @media (min-width: 992px) {
+//     &--2 {
+//       margin-right: 0; // Fix the margin-right issue on larger screens
+//     }
+//   }
+// }
+
+.about-thumb {
+  overflow: hidden;
+
+  @media #{$sm-device} {
+    margin-bottom: 35px;
+  }
+
+  img {
+    width: 100%;
+    transition: 0.4s;
+  }
+
+  &--2{
+    margin-right: -250px;
+  }
+}
+
+
+// Home 2 About Style
+.home-two-about-area{
+  background-color: $offWhite;
+  //background-image: url('../img/about-2-bg.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  @media #{$lg-device, $xlmax-device} {
+    background-size: contain;
+  }
+
+  @media #{$sm-device, $md-device} {
+    background-image: none !important;
+  }
+
+  .about-content{
+    padding-top: 90px;
+    padding-bottom: 10px;
+
+    @media #{$md-device} {
+      padding-top: 50px;
+      padding-bottom: 90px;
+    }
+
+    @media #{$sm-device} {
+      padding-bottom: 60px;
+      padding-top: 20px;
+    }
+  }
+}
+
+.video-button-thumb{
+  position: relative;
+
+  &:after{
+    content: '';
+    background-color: $brandColor;
+    opacity: 0.5;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+
+  .btn-play{
+    border-radius: 50%;
+    background-color: $white;
+    color: $brandColor;
+    font-size: 18px;
+    text-align: center;
+    line-height: 60px;
+    height: 60px;
+    width: 60px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 2;
+
+    &:hover{
+      background-color: $brandColor;
+      color: $white;
+    }
+
+    i{
+      padding-left: 5px;
+    }
+  }
+}

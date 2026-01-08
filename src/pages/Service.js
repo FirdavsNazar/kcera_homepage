@@ -43,7 +43,6 @@ const PageService = () => {
                     mapLink="https://www.google.com/maps?q=Megadong%201011-ho,%20SKN%20Technopark,%20Sagimakgol-ro%20124,%20Jungwon-gu,%20Seongnam-si,%20Gyeonggi-do,%20South%20Korea&output=embed"
                 />
                 
-                
                 <PageAbout
                     title="2. DIRECTION"
                     heading="KCERA Busan branch"
